@@ -1,0 +1,86 @@
+---
+title: "Journal Titles"
+author: "Alex Albury"
+date: "3/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(rvest)
+library(reticulate)
+library(tidytext)
+library(ggwordcloud)
+```
+
+```{r}
+#vector of volume numbers for urls
+volume <- c(50:200)
+
+urls <- paste0("https://www.sciencedirect.com/journal/cognition/vol/", volume, "/issue/1")
+```
+
+
+
+```{r}
+j_titles <- function(url){
+  read_html(url) %>% 
+    html_nodes(".js-article-title") %>% 
+    html_text() %>%
+    unlist() %>%
+    as.tibble()
+}
+
+titles_full <- bind_rows(map(urls, j_titles))
+```
+```{r}
+titles <- titles_full %>% 
+  rename(title = value) %>%
+  filter(!str_detect(title, regex("editorial|discussion|announcement|publisher", ignore_case = TRUE)))
+```
+
+```{r}
+#write.table(titles, file = "titles.txt", sep = "\t", quote = FALSE, row.names = FALSE)
+
+#write.csv(titles, file = "titles.csv", quote = FALSE, row.names = FALSE)
+```
+
+
+```{python}
+import markovify
+import random
+
+# Get raw text as string.
+with open("titles.txt") as f:
+    text = f.read()
+
+text_model = markovify.NewlineText(text)
+
+# Print ten randomly-generated sentences using the built model
+for i in range(10):
+    print(text_model.make_short_sentence(max_chars = randint(50,150), max_overlap_ratio = random.uniform(.4, .8)))
+```
+
+```{r}
+titles %>% 
+  unnest_tokens(output = word, input = title) %>% 
+  # remove numbers
+  filter(!str_detect(word, "^[0-9]*$")) %>%
+  # remove stop words
+  anti_join(stop_words) %>% 
+  group_by(word) %>% 
+  count(sort = TRUE) %>% 
+  ungroup() %>%
+  top_n(n = 150, wt = n) %>%
+  mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(70, 30))) %>%
+  ggplot(aes(label = word, size = n, angle = angle)) +
+  geom_text_wordcloud_area(rm_outside = TRUE) +
+  scale_size(range = c(2, 15))+
+  theme_minimal()
+  
+```
+

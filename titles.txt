@@ -1,0 +1,2102 @@
+title
+Insensitivity to future consequences following damage to human prefrontal cortex
+Why should we abandon the mental logic hypothesis?
+Beyond intuition and instinct blindness: toward an evolutionarily rigorous cognitive science
+The perception of rhythm in language
+Categorization in early infancy and the continuity of development
+Concepts: a potboiler
+Autism: beyond “theory of mind”
+Developmental dyslexia and animal studies: at the interface between cognition and neurology
+Foraging for brain stimulation: toward a neurobiology of computation
+Young children's naive theory of biology
+Mental models and probabilistic thinking
+Pretending and believing: issues in the theory of ToMM
+Do speakers have access to a mental syllabary?
+On the internal structure of phonetic categories: a progress report
+Perception and awareness in phonological processing: the case of the phoneme
+Extracting the coherent core of human probability judgement: a research program for cognitive psychology
+Ever since language and learning: afterthoughts on the Piaget-Chomsky debate
+Levels of causal understanding in chimpanzees and children
+Some primitive mechanisms of spatial attention
+Language and connectionism: the developing interface
+Uncertainty and the difficulty of thinking through disjunctions
+Initial knowledge: six suggestions
+What is folk psychology?
+Author index of volume 50
+Probabilities and utilities of fictional outcomes in Wason's four-card selection task
+Canonical linking rules: forward versus reverse linking in normally developing and specifically language-impaired children
+A reassessment of the shift from the classical theory of concepts to prototype theory
+The influence of orthographic consistency on reading development: word recognition in English and German children
+When explanations compete: the role of explanatory coherence on judgements of likelihood
+What child is this? What interval was that? Familiar tunes and music perception in novice listeners
+Earliest recollections of childhood: a demographic analysis
+Thanks to our guest reviewers
+Architectures for numerical cognition
+Children's theory of mind: Fodor's heuristics examined
+Categories of social relationship
+Two modes of mental representation and problem solution in syllogistic reasoning
+Phonological awareness and visual skills in learning to read Chinese and English
+Can overconfidence be used as an indicator of reconstructive rather than retrieval processes?
+What happened to the “n” of sink? Children's spellings of final consonant clusters
+Spatial language and spatial representation
+False positives in recognition memory produced by cohort activation
+Syntactic cues in the acquisition of collective nouns
+Making explicit 3-year-olds' implicit competence with their own false beliefs
+Learning and morphological change
+A cognitive developmental approach to morality: investigating the psychopath
+Relevance theory explains the selection task
+Information gain explains relevance which explains the selection task
+Are humans good intuitive statisticians after all? Rethinking some conclusions from the literature on judgment under uncertainty
+Expectancy in melody: tests of the implication-realization model
+Hypothesis testing in Wason's selection task: social exchange cheating detection or task understanding
+Contamination in reasoning about false belief: an instance of realist bias in adults but not children
+Recency preference in the human sentence processing mechanism
+Sequential and coordinative processing dynamics in figural transformations across the life span
+When do speakers take into account common ground?
+Intention, history, and artifact concepts
+Domain-specific rationality in human choices: violations of utility axioms and social contexts
+Red rats eater exposes recursion in children's word formation
+Towards a psychology of literacy: on the relations between speech and writing
+Advances in the computational study of language acquisition
+A computational study of cross-situational techniques for learning word-to-meaning mappings
+Distributional regularity and phonotactic constraints are useful for segmentation
+Selectional constraints: an information-theoretic model and its computational realization
+A language learning model for finite parameter spaces
+Reasoning strategies for suppositional deductions
+Pragmatics in understanding what is said
+The uncertain response in humans and animals
+Reasons to doubt the present evidence for metaphoric representation
+Connectionism and the problem of systematicity (continued): why Smolensky's solution still doesn't work
+The effect of premise order in conditional reasoning: a test of the mental model theory
+Salience of visual parts
+Identity and similarity factors in repetition blindness: implications for lexical processing
+Conceptual perspective and lexical choice in acquisition
+The representation of Hebrew words: Evidence from the obligatory contour principle
+Does rank have its privilege? Inductive inferences within folkbiological taxonomies
+The functional anatomy of a hysterical paralysis
+The representation of stress: evidence from an aphasic patient
+Culture, category salience, and inductive reasoning
+Native-language recognition abilities in 4-month-old infants from monolingual and bilingual environments
+Looking for the agent: an investigation into consciousness of action and self-consciousness in schizophrenic patients
+Body-centered representations for visually-guided action emerge during early infancy
+Solving belief problems: toward a task analysis
+Do houseflies think? Patterns of induction and biological beliefs in development1
+The Whorfian hypothesis and numerical cognition: is `twenty-four' processed in the same way as `four-and-twenty'?
+Three- and four-year-old children's ability to use desire- and belief- based reasoning
+Image-based object recognition in man, monkey and machine
+Three-dimensional object recognition based on the combination of views
+Recovery of 3D volume from 2-tone images of novel objects
+Do viewpoint-dependent mechanisms generalize across members of a class?
+Evidence accumulation in cell populations responsive to faces: an account of generalisation of recognition without mental transformations
+Diagnostic recognition: task constraints, object information, and their interactions
+The objects of action and perception
+Linguistic complexity: locality of syntactic dependencies
+Motor processes in mental rotation
+The effect of face inversion on the human fusiform face area
+Separating hierarchical relations and word order in language production: is proximity concord syntactic or linear?
+Infants selectively encode the goal object of an actor's reach
+Subjectless sentences in child Danish
+Childhood memory and self-description in young Chinese adults: the impact of growing up an only child
+Effects of physical connectivity on the representational unity of multi-part configurations
+Conditional reasoning with inducements and advice
+Improving phonological awareness and word reading in a later learned alphabetic script
+Statistical learning of tone sequences by human infants and adults
+Identifying objects in conventional and contorted poses: contributions of hemisphere-specific mechanisms
+Taking on semantic commitments, II: collective versus distributive readings
+Developmental differences in sensitivity to semantic relations among good and poor comprehenders: evidence from semantic priming
+Similarity and categorisation: neuropsychological evidence for a dissociation in explicit categorisation tasks
+Mentalising, schizotypy, and schizophrenia
+The perceived intentionality of groups
+The role of motion in children's categorization of objects
+Age of acquisition in face categorisation: is there an instance-based account?
+Default nominal inflection in Hebrew: evidence for mental variables
+Children's understanding that utterances emanate from minds: using speaker belief to aid interpretation
+Language acquisition in the absence of explicit negative evidence: how important is starting small?
+Early noun vocabularies: do ontology, category structure and syntax correspond?
+“Near” and “far” in language and perception
+Pulling smarties out of a bag: a Headed Records analysis of children's recall of their own past beliefs
+Unconscious semantic priming from pictures
+Skill acquisition in music performance: relations between planning and temporal control
+Thinking ahead: the case for motor imagery in prospective judgements of prehension
+Representation of the cardinality principle: early conception of error in a counterfactual test
+Attractor dynamics in word recognition: converging evidence from errors by normal subjects, dyslexic patients and a connectionist model
+Large number discrimination in 6-month-old infants
+Metaphoric structuring: understanding time through spatial metaphors
+Why we are so good at catching cheaters
+Lexical word formation in children with grammatical SLI: a grammar-specific versus an input-processing deficit?
+Verbal and visual causal arguments
+Correlates of linguistic rhythm in the speech signal
+Graphemes are perceptual reading units
+Regulation of division of labour between cognitive systems controlling action
+Cross-cultural music cognition: cognitive methodology applied to North Sami yoiks
+A componential view of theory of mind: evidence from Williams syndrome
+Reading Chinese characters for meaning: the role of phonological information
+The rapid use of gender information: evidence of the time course of pronoun resolution from eyetracking
+No interpretation without representation: the role of domain-specific representations and inferences in the Wason selection task
+The positive and negative of human expertise in gaze perception
+Infant memory for musical experiences
+Two reasons to abandon the false belief task as a test of theory of mind
+Developmental changes within the core of artifact concepts
+Altering object representations through category learning
+Language and number: a bilingual training study
+Are there principles that apply only to the acquisition of words? A reply to Waxman and Booth
+Recognizing one's own face
+Reading time evidence for enriched composition
+Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework
+Perceptual awareness and its loss in unilateral neglect and extinction
+Neural events and perceptual awareness
+Perception without awareness: perspectives from cognitive psychology
+Consciousness and the brainstem
+Introspective physicalism as an approach to the science of consciousness
+Paradox and cross purposes in recent work on consciousness
+Are we explaining consciousness yet?
+Objects and attention: the state of the art
+Attention-based visual routines: sprites
+Segmentation, attention and phenomenal visual objects
+Auditory and visual objects
+Visual indexes, preconceptual objects, and situated vision
+What is a visual object? Evidence from target merging in multiple object tracking
+Infants' knowledge of objects: beyond object files and object tracking
+Identity and similarity in repetition blindness: no cross-over interaction
+Imagining physically impossible self-rotations: geometry is more important than gravity
+Morphological units in the Arabic mental lexicon
+Content-blind norms, no norms, or good norms? A reply to Vranas
+Single-case probabilities and content-neutral norms: a reply to Gigerenzer
+Linguistic theory and psychological reality: a reply to Boudelaa & Marslen-Wilson
+Prior knowledge on the illumination position
+The effect of harmonic context on phoneme monitoring in vocal music
+Visual perspective-taking and schizotypy: evidence for a simulation-based account of mentalizing in normal adults
+Estimating causal strength: the role of structural knowledge and processing effort
+Why essences are essential in the psychology of concepts
+Only causation matters: reply to Ahn et al.
+Gaze durations during speech reflect word selection and phonological encoding
+The arithmetic tie effect is mainly encoding-based
+Decade breaks in the mental number line? Putting the tens and units back in different bins
+A functional disconnection between spoken and visual word recognition: evidence from unconscious priming
+Domain specificity versus expertise: factors influencing distinct processing of faces
+Reassessing the 3/4 view effect in face recognition
+Motion events in language and cognition
+Probability judgment in hierarchical learning: a conflict between predictiveness and coherence
+Multisensory spatial representations in eye-centered coordinates for reaching
+Learning phonotactic constraints from brief auditory experience
+A bird's eye view: biological categorization and reasoning within and across cultures
+Structural constraints in the perception of English stop-sonorant clusters
+Using uh and um in spontaneous speaking
+Looking without seeing the background change: electrophysiological correlates of change detection versus change blindness
+Word learning is ‘smart’: evidence that conceptual information affects preschoolers' extension of novel words
+What do you think I think you think?: Strategic reasoning in matrix games
+The role of priming in conjunctive visual search
+Infants' ability to connect gaze and emotional expression to intentional action
+The influence of referential processing on sentence complexity
+Infants' reasoning about opaque and transparent occluders in an individuation task
+Mental image generation and the contrast sensitivity function
+Infant perceptual and conceptual categorization: the roles of static and dynamic stimulus attributes
+Radical concept nativism
+Visual mental images can be ambiguous: insights from individual differences in spatial transformation abilities
+Calculation, culture, and the repeated operand effect
+Meaningful processing of meaningless stimuli: The influence of perceptual experience on early visual processing of faces
+RETRACTED: Rule learning by cotton-top tamarins
+Similarity as transformation
+The shape of holes
+Abrupt onsets and gaze direction cues trigger independent reflexive attentional effects
+Explaining modulation of reasoning by belief
+The development of a word-learning strategy
+An empirical comparison of rhythm in language and music
+A perceptual interference account of acquisition difficulties for non-native phonemes
+Direct causation in the linguistic coding and individuation of causal events
+Influence of consonantal context on the pronunciation of vowels: A comparison of human readers and computational models
+Can holistic processing be learned for inverted faces?
+Attention maintains mental extrapolation of target position: irrelevant distractors eliminate forward displacement after implied motion
+Detection of change in shape: an advantage for concavities
+People with Williams syndrome process faces holistically
+Limits on theory of mind use in adults
+Children's reasoning about physics within and across ontological kinds
+Thanks to our Guest reviewers
+Books received in 2002
+Assignment of reference to reflexives and pronouns in picture noun phrases: evidence from eye movements
+Numerosity discrimination in infants: Evidence for two systems of representations
+Processing correlates of lexical semantic complexity
+Eye contact does not facilitate detection in children with autism
+Processing relative clauses in Chinese
+Can thematic roles leave traces of their places?
+The role of prosodic boundaries in the resolution of lexical embedding in speech comprehension
+Frequent frames as a cue for grammatical categories in child directed speech
+Not so fast! (and not so frugal!): rethinking the recognition heuristic
+Infants' emerging ability to represent occluded object motion
+The role of historical intuitions in children's and adults' naming of artifacts
+Cognitive profiling and preliminary subtyping in Chinese developmental dyslexia
+Is there a causal link from phonological awareness to success in learning to read?
+Towards a new functional anatomy of language
+The functional neuroanatomy of prelexical processing in speech perception
+Cortical bases of speech perception:evidence from functional lesion studies
+Dorsal and ventral streams: a framework for understanding aspects of the functional anatomy of language
+The spatial and temporal signatures of word production components
+Lesion analysis of the brain areas involved in language comprehension
+Neural systems behind word and concept retrieval
+Contributions of memory circuits to language: the declarative/procedural model
+The semantics and acquisition of number words: integrating linguistic and developmental perspectives
+Baby hands that move to the rhythm of language: hearing babies acquiring sign languages babble silently on the hands
+A holistic account of the own-race effect in face recognition: evidence from a cross-cultural study
+Age-of-acquisition effects in visual word recognition: evidence from expert vocabularies
+Bodies capture attention when nothing is expected
+Amodal processing of visual speech as revealed by priming
+Putting the bits together: an information theoretical perspective on morphological processing
+Anticipatory spatial representation of 3D regions explored by sighted observers and a deaf-and-blind-observer
+Geometric determinants of human spatial memory
+But do we need universal grammar? Comment on Lidz et al. (2003)
+Yes, we still need Universal Grammar
+Do 5-month-old infants see humans as material objects?
+Is an infant a people person?
+People v. objects: a reply to Rakison and Cicchino
+Orienting of attention via observed eye gaze is head-centred
+Pulling out the intentional structure of action: the relation between action processing and action production in infancy
+Contrasting effects of phonological priming in aphasic word production
+Orientation-invariant object recognition: evidence from repetition blindness
+The influence of the immediate visual context on incremental thematic role-assignment: evidence from eye-movements in depicted events
+Starting at the end: the importance of goals in spatial language
+The categorical structure of semantic memory for famous people: a new approach using release from proactive interference
+The relationship between object files and conscious perception
+Action experience alters 3-month-old infants' perception of others' actions
+Audio–visual speech perception is special
+Word meaning and the control of eye fixation: semantic competitor effects and the visual world paradigm
+Horizontal and vertical Simon effect: different underlying mechanisms?
+The wording of conclusions in relational reasoning
+Chronometric studies of numerical cognition in five-month-old infants
+Quantity judgments and individuation: evidence that mass nouns count
+Chinese–English biliteracy acquisition: cross-language and writing system transfer
+How to trigger elaborate processing? A comment on Kunde, Kiesel, and Hoffmann (2003)
+On the masking and disclosure of unconscious elaborate processing. A reply to Van Opstal, Reynvoet, and Verguts (2005)
+Unconscious semantic categorization and mask interactions: An elaborate response to Kunde et al. (2005)
+Phoneme isolation ability is not simply a consequence of letter-sound knowledge
+The role of inferences about referential intent in word learning: Evidence from autism
+Guest reviewers
+Books Received 2004
+Memory for melody: infants use a relative pitch code
+Use of phonetic specificity during the acquisition of new words: differences between consonants and vowels
+Auditory attention to frequency and time: an analogy to visual local–global stimuli
+A systematic, large-scale study of synaesthesia: implications for the role of early experience in lexical-colour associations
+On what people know about images on mirrors
+Early and late processes in syllogistic reasoning: Evidence from eye-movements
+Lexically-driven syntactic priming
+Reading for repetition and reading for translation: do they involve the same processes?
+Covariation and quantifier polarity: What determines causal attribution in vignettes?
+What does an intermediate success rate mean? An analysis of a Piagetian liquid conservation task in the great apes
+Principled and statistical connections in common sense conception
+Multi-stage mental process for economic choice in capuchins
+The relative importance of spatial versus temporal structure in the perception of biological motion: An event-related potential study
+The nature of music from a biological perspective
+The capacity for music: What is it, and what’s special about it?
+Infant music perception: Domain-general or domain-specific mechanisms?
+Are we “experienced listeners”? A review of the musical capacities that do not depend on formal musical training
+Varieties of musical experience
+The biology and evolution of music: A comparative perspective
+Thematic role properties of subjects and objects
+Unconscious inhibition and facilitation at the objective detection threshold: Replicable and qualitatively different unconscious perceptual effects
+Cross-modal interactions in the perception of musical performance
+What is the relationship between synaesthesia and visuo-spatial number forms?
+Representational and executive selection resources in ‘theory of mind’: Evidence from compromised belief-desire reasoning in old age
+Differential developmental trajectories for egocentric, environmental and intrinsic frames of reference in spatial memory
+Agreement and movement: A syntactic analysis of attraction
+Enumeration versus multiple object tracking: the case of action video game players
+Five-month-old infants know humans are solid, like inanimate objects
+What does Batman think about SpongeBob? Children's understanding of the fantasy/fantasy distinction
+What does syntax say about space? 2-year-olds use sentence structure to learn new prepositions
+Journal policies and procedures
+Founding editor’s farewell remarks
+Language-specific and universal influences in children’s syntactic packaging of Manner and Path: A comparison of English, Japanese, and Turkish
+Feature binding in visual working memory evaluated by type identification paradigm
+The development of mental state attributions in women with X-monosomy, and the role of monoamine oxidase B in the sociocognitive phenotype
+Temporal order judgment reveals how number magnitude affects visuospatial attention
+Comparison and the development of knowledge
+The integration of figurative language and static depictions: An eye movement study of fictive motion
+Body posture facilitates retrieval of autobiographical memories
+Why stereotypes don’t even make good defaults
+The role of language in mathematical development: Evidence from children with specific language impairments
+No face-like processing for objects-of-expertise in three behavioural tasks
+Learning phonetic categories by tracking movements
+Comparison of confirmation measures
+Reasoning about artifacts at 24 months: The developing teleo-functional stance
+Differential effects of age-of-acquisition for concrete nouns and action verbs: Evidence for partly distinct representations?
+Infant-directed speech supports phonetic category learning in English and Japanese
+Spontaneous facial mimicry in response to dynamic facial expressions
+Concept empiricism: A methodological critique
+Viewpoint costs occur during consolidation: Evidence from the attentional blink
+Evidence for distinct contributions of form and motion information to the recognition of emotions from body gestures
+Self-attributed body-shadows modulate tactile attention
+Unconscious priming according to multiple S-R rules
+Explaining errors in children’s questions
+Attention attenuates metacontrast masking
+The role of meaning in past-tense inflection: Evidence from polysemy and denominal derivation
+Apes know that hidden objects can affect the orientation of other objects
+Learning about occlusion: Initial assumptions and rapid adjustments
+Dysfunctional implications of narrow window theory: Variability in the intuitive assessment of correlation
+A developmental perspective on the Imperfective Paradox
+The conceptual underpinnings of pretense: Pretending is not ‘behaving-as-if’
+When we think about thinking: The acquisition of belief verbs
+Developmental changes in the understanding of generics
+Belief–desire reasoning in the explanation of behavior: Do actions speak louder than words?
+Impulsive decision-making: Learning to gamble wisely?
+Causal relations drive young children’s induction, naming, and categorization
+Words (but not Tones) facilitate object categorization: Evidence from 6- and 12-month-olds
+Simulating visibility during language comprehension
+The pop out of scene-relative object movement against retinal motion due to self-movement
+Developing symbolic capacity one step at a time
+Anchors aweigh: A demonstration of cross-modality anchoring and magnitude priming
+Evocation of functional and volumetric gestural knowledge by objects and words
+Bilingualism aids conflict resolution: Evidence from the ANT task
+The effect of verb semantic class and verb frequency (entrenchment) on children’s and adults’ graded judgements of argument-structure overgeneralization errors
+Violations of coherence in subjective probability: A representational and assessment processes account
+Isolating observer-based reference directions in human spatial memory: Head, body, and the self-to-array axis
+Learning non-local dependencies
+Free-ranging rhesus monkeys spontaneously individuate and enumerate small numbers of non-solid portions
+False recollection in children with reading comprehension difficulties
+Discrimination of coronal stops by bilingual adults: The timing and nature of language interaction
+Information integration in multiple cue judgment: A division of labor hypothesis
+Scale structure: Processing minimum standard and maximum standard scalar adjectives
+Children’s understanding of posterior probability
+Striving for optimal relevance when answering questions
+The attentional cost of inattentional blindness
+Inhibition within a reference frame during the interpretation of spatial language
+The cognitive locus of distraction by acoustic novelty in the cross-modal oddball task
+Evidence for the activation of sensorimotor information during visual word recognition: The body–object interaction effect
+Newborns’ face recognition is based on spatial frequencies below 0.5 cycles per degree
+Children prefer certain individuals over perfect duplicates
+Synesthesia and number cognition in children
+Was it designed to do that? Children’s focus on intended function in their conceptualization of artifacts
+On the universality of language comprehension strategies: Evidence from Turkish
+Cognate effects in picture naming: Does cross-language activation survive a change of script?
+Two-year-olds use artist intention to understand drawings
+Children reorient using the left/right sense of coloured landmarks at 18–24 months
+Inner speech slips exhibit lexical bias, but not the phonemic similarity effect
+Differential time-dependent effects of emotion on recollective experience and memory for contextual information
+A synesthetic walk on the mental number line: The size effect
+A colorful walk, but is it on the mental number line? Reply to Cohen Kadosh, Tzelgov, and Henik
+A colorful walk on the mental number line: Striving for the right direction
+Reviewer Acknowledgement
+Parallel non-verbal enumeration is constrained by a set-based limit
+Preschool children’s use of cues to generic meaning
+Accommodating variation: Dialects, idiolects, and speech processing
+The role of attention in subitizing
+Testing boundary conditions for the conjunction fallacy: Effects of response mode, conceptual focus, and problem type
+Frames of reference for the light-from-above prior in visual search and shape judgements
+Developmental dyslexia and the dual route model of reading: Simulating individual differences and subtypes
+The phenomenology of action: A conceptual framework
+Arabic digit naming speed: Task context and redundancy gain
+Rapid acquisition of phonological alternations by infants
+Beyond Simulation–Theory and Theory–Theory: Why social cognitive neuroscience should use its own concepts to study “theory of mind”
+Individual differences in category learning: Sometimes less working memory capacity is better than more
+Your divided attention, please! The maintenance of multiple attentional control sets over distinct regions in space
+Young infants’ actions reveal their developing knowledge of support variables: Converging evidence for violation-of-expectation findings
+Word order and information status in child language
+Attention capture by faces
+Seeing is believing: The effect of brain images on judgments of scientific reasoning
+Sex-contingent face aftereffects depend on perceptual category rather than structural encoding
+Preschoolers’ use of spatiotemporal history, appearance, and proper name in determining individual identity
+Do infants possess an evolved spider-detection mechanism?
+Attentional costs in multiple-object tracking
+Perception and presupposition in real-time language comprehension: Insights from anticipatory processing
+Give and take: Syntactic priming during spoken language comprehension
+THE BACON not the bacon: How children and adults understand accented and unaccented noun phrases
+When can we say ‘if’?
+Emotion knowledge and autobiographical memory across the preschool years: A cross-cultural longitudinal investigation
+Reference directions and reference objects in spatial memory of a briefly viewed layout
+Does language guide event perception? Evidence from eye movements
+Stereotype priming in face recognition: Interactions between semantic and visual information in face encoding
+Eye movements during multiple object tracking: Where do participants look?
+Intersensory redundancy accelerates preverbal numerical competence
+Foundations of cooperation in young children
+Development of coronal stop perception: Bilingual infants keep pace with their monolingual peers
+Morpheme-based reading aloud: Evidence from dyslexic and skilled Italian readers
+The SNARC effect does not imply a mental number line
+The link between statistical segmentation and word learning in adults
+Moral appraisals affect doing/allowing judgments
+The effect of neighborhood frequency in reading: Evidence with transposed-letter neighbors
+The processing of English regular inflections: Phonological cues to morphological structure
+Pragmatic expectations and linguistic evidence: Listeners anticipate but do not integrate common ground
+Effects of language experience on the perception of American Sign Language
+Sound symbolism facilitates early verb learning
+Establishing object correspondence across eye movements: Flexible use of spatiotemporal and surface feature information
+Orienting in virtual environments: How are surface features and environmental geometry weighted in an orientation task?
+Visual homing in the absence of feature-based landmark information
+Creators’ intentions bias judgments of function independently from causal inferences
+Regulating cognitive control through approach-avoidance motor actions
+Mental imagery and synaesthesia: Is synaesthesia from internally-generated stimuli possible?
+A case of hand waving: Action synchrony and person perception
+Lexical effects on speech perception in individuals with “autistic” traits
+The spacing effect in children’s memory and category induction
+The link between speech perception and production is phonological and abstract: Evidence from the shadowing task
+Differences in preschoolers’ and adults’ use of generics about novel animals and artifacts: A window onto a conceptual divide
+Interference by process, not content, determines semantic auditory distraction
+Frequency trajectory effects in Chinese character recognition: Evidence for the arbitrary mapping hypothesis
+Estimating the probability of negative events
+On the signals underlying conscious awareness of action
+Both motor prediction and conceptual congruency between preview and action-effect contribute to explicit judgment of agency
+Role of inhibition in language switching: Evidence from event-related brain potentials in overt picture naming
+God’s categories: The effect of religiosity on children’s teleological and essentialist beliefs about categories
+Bilingualism and conversational understanding in young children
+Retraction notice
+Embodied and disembodied cognition: Spatial perspective-taking
+Linking production and comprehension processes: The case of relative clauses
+The logical syntax of number words: Theory, acquisition and processing
+Recipient design in tacit communication
+Discourse-mediation of the mapping between language and the visual world: Eye movements and mental representation
+Short-term action intentions overrule long-term semantic knowledge
+Sources of information for discriminating dynamic human actions
+Anatomy of an error: A bidirectional state model of task engagement/disengagement and attention-related errors
+You do not find your own face faster; you just look at it longer
+Are Asians forgetful? Perception, retention, and recall in episodic remembering
+Investigating the causes of wrap-up effects: Evidence from eye movements and E–Z Reader
+The Human Function Compunction: Teleological explanation in adults
+Familiarity effects on categorization levels of faces and objects
+Processing interactions between phonology and melody: Vowels sing but consonants speak
+A Bayesian framework for word segmentation: Exploring the effects of context
+Structural and semantic constraints on the resolution of pronouns and reflexives
+Speech errors reflect the phonotactic constraints in recently spoken syllables, but not in recently heard syllables
+Statistical inference and sensitivity to sampling in 11-month-old infants
+The development of category learning strategies: What makes the difference?
+Core knowledge and its limits: The domain of food
+Looking before you leap: A theory of motivated control of action
+Unsentimental ethics: Towards a content-specific account of the moral–conventional distinction
+Syntactic processing in Korean–English bilingual production: Evidence from cross-linguistic structural priming
+Sound to meaning correspondences facilitate word learning
+Morphological priming by itself: A study of Portuguese conjugations
+Anticipatory emotions in decision tasks: Covert markers of value or attentional processes?
+Number estimation relies on a set of segmented objects
+Information learned from generic language becomes central to children’s biological concepts: Evidence from their open-ended explanations
+On the provenance of judgments of conditional probability
+Visual perspective taking impairment in children with autistic spectrum disorder
+Belief inhibition during thinking: Not always winning but at least taking part
+Transformation and alignment in similarity
+The morality of harm
+On the Morality of Harm: A response to Sousa, Holbrook and Piazza
+Embodied communication: Speakers’ gestures affect listeners’ actions
+The influence of anxiety on the initial selection of emotional faces presented in binocular rivalry
+Object representations maintain attentional control settings across space and time
+Contextual effects on number–time interaction
+Probability matching in choice under uncertainty: Intuition versus deliberation
+Dissociating the effects of angular disparity and image similarity in mental rotation and object recognition
+Exemplar similarity and rule application
+The shape of words in the brain
+Effect of language proficiency and executive control on verbal fluency performance in bilinguals
+Asymmetric cultural effects on perceptual expertise underlie an own-race bias for voices
+Episodic future thinking in 3- to 5-year-old children: The ability to think of what will be needed from a different point of view
+The embodied nature of spatial perspective taking: Embodied transformation versus sensorimotor interference
+Are irrational reactions to unfairness truly emotionally-driven? Dissociated behavioural and emotional responses in the Ultimatum Game task
+The linguistic and embodied nature of conceptual processing
+A truth that’s told with bad intent: An ERP study of deception
+Prescribed spatial prepositions influence how we think about time
+Immediate truth – Temporal contiguity between a cognitive problem and its solution determines experienced veracity of the solution
+A purple giraffe is faster than a purple elephant: Inconsistent phonology affects determiner selection in English
+Look but don’t touch: Tactile disadvantage in processing modality-specific words
+Symbolic and nonsymbolic number comparison in children with and without dyscalculia
+Subliminal priming of actions influences sense of control over effects of action
+Grasping spheres, not planets
+Creating number semantics through finger movement perception
+Two sources of evidence on the non-automaticity of true and false belief ascription
+Cross-modal facilitation in speech prosody
+Subject relative clauses are not universally easier to process: Evidence from Basque
+What does distractibility in ADHD reveal about mechanisms for top-down attentional control?
+Just do it? Investigating the gap between prediction and action in toddlers’ causal inferences
+The Attentional Boost Effect: Transient increases in attention to one task enhance performance in a second task
+The cost of being watched: Stroop interference increases under concomitant eye contact
+The effect of perceived motion-in-depth on time perception
+The role of experience in location estimation: Target distributions shift location memory biases
+Interactions dominate the dynamics of visual cognition
+Spreading the blame: The allocation of responsibility amongst multiple agents
+Simulating an enactment effect: Pronouns guide action simulation during narrative comprehension
+Motor action and emotional memory
+Rescuing stimuli from invisibility: Inducing a momentary release from visual masking with pre-target entrainment
+Motion through syntactic frames
+Investigating the importance of the least supported phoneme on visual word naming
+Auditory emotional cues enhance visual perception
+How children use examples to make conditional predictions
+Shared learning shapes human performance: Transfer effects in task sharing
+First words and first memories
+Developmental trajectory of number acuity reveals a severe impairment in developmental dyscalculia
+“Some,” and possibly all, scalar inferences are not delayed: Evidence for immediate pragmatic enrichment
+Is the ‘naming’ deficit in dyslexia a misnomer?
+Eye movements and processing difficulty in object relative clauses
+Norms inform mental state ascriptions: A rational explanation for the side-effect effect
+The role of visual form in lexical access: Evidence from Chinese classifier production
+Mirror-image confusions: Implications for representation and processing of object orientation
+The Earth is flat when personally significant experiences with the sphericity of the Earth are absent
+Parafoveal processing during reading is reduced across a morphological boundary
+Sentence processing in an artificial language: Learning and using combinatorial constraints
+The intentional mind and the hot hand: Perceiving intentions makes streaks seem likely to continue
+Communicative Function Demonstration induces kind-based artifact representation in preverbal infants
+The cognitive representation of intending not to act: Evidence for specific non-action-effect binding
+Shifting senses in lexical semantic development
+Working memory for patterned sequences of auditory objects in a songbird
+Magic at the marketplace: Choice blindness for the taste of jam and the smell of tea
+Why are dunkels sticky? Preschoolers infer functionality and intentional creation for artifact properties learned from generic language
+A bilateral advantage for storage in visual working memory
+Self-motion impairs multiple-object tracking
+God: Do I have your attention?
+Place and summation coding for canonical and non-canonical finger numeral representations
+Observing fearful faces leads to visuo-spatial perspective taking
+Retraction notice
+Conceptual complexity and the bias/variance tradeoff
+Walk this way: Approaching bodies can influence the processing of faces
+Individual differences in children’s mathematical competence are related to the intentional but not automatic processing of Arabic numerals
+Word learning does not end at fast-mapping: Evolution of verb meanings through reorganization of an entire semantic domain
+Perceptual load influences auditory space perception in the ventriloquist aftereffect
+Perception of intersensory synchrony in audiovisual speech: Not that special
+Accessing the unsaid: The role of scalar alternatives in children’s pragmatic inference
+The size congruity effect: Is bigger always more?
+Fortune favors the  (): Effects of disfluency on educational outcomes
+Category-contingent face adaptation for novel colour categories: Contingent effects are seen only after social or meaningful labelling
+Do English and Mandarin speakers think about time differently?
+Implicit semantic perception in object substitution masking
+The GROOP effect: Groups mimic group actions
+Do infants show social preferences for people differing in race?
+An association between understanding cardinality and analog magnitude representations in preschoolers
+The time course of anticipatory constraint integration
+Are children with Specific Language Impairment competent with the pragmatics and logic of quantification?
+Listeners’ comprehension of uptalk in spontaneous speech
+Plasticity of human spatial cognition: Spatial language and cognition covary across cultures
+Effects of practice on task architecture: Combined evidence from interference experiments and random-walk models of decision making
+Mutual exclusivity in autism spectrum disorders: Testing the pragmatic hypothesis
+A working memory account for spatial–numerical associations
+Money enhances memory consolidation – But only for boring material
+Retroactive adjustment of perceived time
+The role of variation in the perception of accented speech
+Pigeons perceive a reversed Zöllner illusion
+The ecological rationality of delay tolerance: Insights from capuchin monkeys
+A probabilistic model of cross-categorization
+Newborns’ preference for goal-directed actions
+Spatial reasoning in Tenejapan Mayans
+Short-term memory stages in sign vs. speech: The source of the serial span discrepancy
+Pragmatic tolerance: Implications for the acquisition of informativeness and implicature
+Detection of visual–tactile contingency in the first year after birth
+Information seeking by rhesus monkeys (Macaca mulatta) and capuchin monkeys (Cebus apella)
+Can semi-supervised learning explain incorrect beliefs about categories?
+Tracking irregular morphophonological dependencies in natural language: Evidence from the acquisition of subject-verb agreement in French
+Rapid parallel semantic processing of numbers without awareness
+Infants’ understanding of actions performed by mechanical devices
+“Let’s work together”: What do infants understand about collaborative goals?
+Listeners invest in an assumed other’s perspective despite cognitive cost
+The role of beliefs in lexical alignment: Evidence from dialogs with humans and computers
+Interaction and representational integration: Evidence from speech errors
+Continuous visual cues trigger automatic spatial target updating in dynamic scenes
+Measuring category intuitiveness in unconstrained categorization tasks
+When sentimental rules collide: “Norms with feelings” in the dilemmatic context
+Moral judgment in adults with autism spectrum disorders
+Visual statistical learning in the newborn infant
+Changes in auditory frequency guide visual–spatial attention
+Word form encoding in Chinese word naming and word typing
+Subitizing reflects visuo-spatial object individuation capacity
+The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas
+IFC as Pub info/Ed Board
+Mirrors, mirrors on the wall … the ubiquitous multiple reflection error
+The processing of extraposed structures in English
+Escaping capture: Bilingualism modulates distraction from working memory
+Stimulus-dependent flexibility in non-human auditory pitch processing
+Initial morphological learning in preverbal infants
+Emerging bilingualism: Dissociating advantages for metalinguistic awareness and executive control
+When humans become animals: Development of the animal category in early childhood
+Exposure to an urban environment alters the local bias of a remote culture
+Curious eyes: Individual differences in personality predict eye movement behavior in scene-viewing
+Unconscious semantic activation depends on feature-specific attention allocation
+Arrow-elicited cueing effects at short intervals: Rapid attentional orienting or cue-target stimulus conflict?
+If the real world were irrelevant, so to speak: The role of propositional truth-value in counterfactual sentence comprehension
+Chicken or egg? Untangling the relationship between orthographic processing skill and reading accuracy
+Adaptive memory: Young children show enhanced retention of fitness-related information
+IFC as Pub info/Ed Board
+Linguistic rhythm guides parsing decisions in written sentence comprehension
+Cognitive models of risky choice: Parameter stability and predictive accuracy of prospect theory
+Mental visualization of objects from cross-sectional images
+Understanding the abstract role of speech in communication at 12 months
+Symbolic representation of probabilistic worlds
+A funny thing happened on the way to articulation: N400 attenuation despite behavioral interference in picture naming
+Found and missed: Failing to recognize a search target despite moving it
+Overnight lexical consolidation revealed by speech segmentation
+Integrating constraints for learning word–referent mappings
+Navigation as a source of geometric knowledge: Young children’s use of length, angle, distance, and direction in a reorientation task
+Does learning to count involve a semantic induction?
+Perception mirrors production in 14- and 18-month-olds: The case of coda consonants
+Centre-embedded structures are a by-product of associative learning and working memory constraints: Evidence from baboons (Papio Papio)
+The emergence of frequency effects in eye movements
+Comparing pluralities
+IFC as Pub info/Ed Board
+Evaluating ritual efficacy: Evidence from the supernatural
+Cross cultural differences in unconscious knowledge
+Contours of time: Topographic construals of past, present, and future in the Yupno valley of Papua New Guinea
+Categorization is modulated by transcranial direct current stimulation over left prefrontal cortex
+First language acquisition differs from second language acquisition in prelingually deaf signers: Evidence from sensitivity to grammaticality judgement in British Sign Language
+Learning individual talkers’ structural preferences
+The role of intuition and deliberative thinking in experts’ superior tactical decision-making
+Finding words in a language that allows words without vowels
+Predicted errors in children’s early sentence comprehension
+Parent or community: Where do 20-month-olds exposed to two accents acquire their representation of words?
+Are we good at detecting conflict during reasoning?
+IFC as Pub info/Ed Board
+Too much of a good thing: Stronger bilingual inhibition leads to larger lag-2 task repetition costs
+Neurogenesis interferes with the retrieval of remote memories: Forgetting in neurocomputational terms
+Uncovering the connection between artist and audience: Viewing painted brushstrokes evokes corresponding action representations in the observer
+How framing statistical statements affects subjective veracity: Validation and application of a multinomial model for judgments of truth
+The development of abstract syntax: Evidence from structural priming and the lexical boost
+Privileged detection of conspecifics: Evidence from inversion effects during continuous flash suppression
+Probability and surprisal in auditory comprehension of morphologically complex words
+The role of memory consolidation in generalisation of new linguistic information
+Hoping for more: The influence of outcome desirability on information seeking and predictions about relative quantities
+Depressive symptoms enhance loss-minimization, but attenuate gain-maximization in history-dependent decision-making
+Feeling robots and human zombies: Mind perception and the uncanny valley
+IFC as Pub info/Ed Board
+The interplay of conflict and analogy in multidisciplinary teams
+Subtypes of developmental dyslexia: Testing the predictions of the dual-route and connectionist frameworks
+Fast mapping, slow learning: Disambiguation of novel word–object mappings in relation to vocabulary learning at 18, 24, and 30 months
+The long and short of it: Closing the description-experience “gap” by taking the long-run view
+Thinking like a scientist: Innateness as a case study
+Using regression to measure holistic face processing reveals a strong link with face recognition ability
+Young children proactively remedy unnoticed accidents
+Rational snacking: Young children’s decision-making on the marshmallow task is moderated by beliefs about environmental reliability
+Vection modulates emotional valence of autobiographical episodic memories
+On the importance of considering individual profiles when investigating the role of auditory sequential deficits in developmental dyslexia
+Gaze fluctuations are not additively decomposable: Reply to Bogartz and Staub
+IFC as Pub info/Ed Board
+Sound morality: Irritating and icky noises amplify judgments in divergent moral domains
+The development of intent-based moral judgment
+Dissociating temporal preparation processes as a function of the inter-trial interval duration
+Ideas versus labor: What do children value in artistic creation?
+Sizing up the threat: The envisioned physical formidability of terrorists tracks their leaders’ failures and successes
+Alignment as a consequence of expectation adaptation: Syntactic priming is affected by the prime’s prediction error given both prior and recent experience
+Seeing and feeling for self and other: Proprioceptive spatial location determines multisensory enhancement of touch
+Social inferences from faces: Ambient images generate a three-dimensional model
+Improbable outcomes: Infrequent or extraordinary?
+Capuchin monkeys judge third-party reciprocity
+Neuroscience and the soul: Competing explanations for the human experience
+Happiness by association: Breadth of free association influences affective states
+Learning different light prior distributions for different contexts
+Sizing up the threat: The envisioned physical formidability of terrorists tracks their leaders’ failures and successes [Cognition 127/1 (2013) 46–56]
+IFC as Pub info/Ed Board
+Qualitative change in executive control during childhood and adulthood
+Word frequency, function words and the second gavagai problem
+Observational learning without a model is influenced by the observer’s possibility to act: Evidence from the Simon task
+On the problem-size effect in small additions: Can we really discard any counting-based account?
+Location memory in the real world: Category adjustment effects in 3-dimensional space
+Viewers extract mean and individual identity from sets of famous faces
+Multiply-constrained semantic search in the Remote Associates Test
+Is statistical learning constrained by lower level perceptual organization?
+Handing a tool to someone can take more time than using it
+IFC as Pub info/Ed Board
+Cognitive constraints on constituent order: Evidence from elicited pantomime
+Connecting numbers to discrete quantification: A step in the child’s construction of integer concepts
+Comparing predicted and actual affective responses to process versus outcome: An emotion-as-feedback perspective
+When pictures lie: Children’s misunderstanding of photographs
+Greater learnability is not sufficient to produce cultural universals
+Young children’s mapping between arrays, number words, and digits
+Do infants detect indirect reciprocity?
+Do social utility judgments influence attentional processing?
+Enhanced dimension-specific visual working memory in grapheme–color synesthesia
+The GIST of concepts
+The minds of gods: A comparative study of supernatural agency
+Global frames of reference organize configural knowledge of paths
+Social grouping: Perceptual grouping of objects by cooperative but not competitive relationships in dynamic chase
+Size before numbers: Conceptual size primes numerical value
+Learning to navigate: Experience versus maps
+Sampling from the mental number line: How are approximate number system representations formed?
+Face perception is category-specific: Evidence from normal body perception in acquired prosopagnosia
+IFC as Pub info/Ed Board
+Belief-based action prediction in preverbal infants
+Goal neglect and knowledge chunking in the construction of novel behaviour
+Degrading phonetic information affects matching of audiovisual speech in adults, but not in infants
+Inference and coherence in causal-based artifact categorization
+Pliers, not fingers: Tool-action effect in a motor intention paradigm
+Gradient language dominance affects talker learning
+Evidence for a learning bias against saltatory phonological alternations
+Preschoolers use pedagogical cues to guide radical reorganization of category knowledge
+Thyme to touch: Infants possess strategies that protect them from dangers posed by plants
+Children’s sequential information search is sensitive to environmental probabilities
+Do people automatically track others’ beliefs? Evidence from a continuous measure
+Potential: The valuation of imagined future achievement
+How are Bayesian models really used? Reply to Frank (2013)
+Corrigendum to “The role of answer fluency and perceptual fluency as metacognitive cues for initiating analytic thinking” [COGNIT 128/2 (2013) 237–251]
+IFC as Pub info/Ed Board
+Task effects reveal cognitive flexibility responding to frequency and predictability: Evidence from eye movements in reading and proofreading
+Transfer effects between moral dilemmas: A causal model theory
+Intentions vs. resemblance: Understanding pictures in typical development and autism
+Apes are intuitive statisticians
+Traditional difference-score analyses of reasoning are flawed
+Brief non-symbolic, approximate number practice enhances subsequent exact symbolic arithmetic in children
+Cruel nature: Harmfulness as an important, overlooked dimension in judgments of moral standing
+Revisiting the limits of language: The odor lexicon of Maniq
+Affective touch modulates the rubber hand illusion
+The essential moral self
+Distal rhythm influences whether or not listeners hear a word in continuous speech: Support for a perceptual grouping hypothesis
+Infants use known verbs to learn novel nouns: Evidence from 15- and 19-month-olds
+Motor coordination uses external spatial coordinates independent of developmental vision
+The moral pop-out effect: Enhanced perceptual awareness of morally relevant stimuli
+Who is talking in backward crosstalk? Disentangling response- from goal-conflict in dual-task performance
+In the attraction, compromise, and similarity effects, alternatives are repeatedly compared in pairs on single dimensions
+Rhesus monkeys (Macaca mulatta) map number onto space
+Simulating the N400 ERP component as semantic network error: Insights from a feature-based connectionist attractor model of word meaning
+Fear shapes information acquisition in decisions from experience
+Memory retrieval as a self-propagating process
+Conscious awareness of action potentiates sensorimotor learning
+How children perceive fractals: Hierarchical self-similarity and cognitive development
+Sometimes it does hurt to ask: The constructive role of articulating impressions
+Thinking about seeing: Perceptual sources of knowledge are encoded in the theory of mind brain regions of sighted and blind adults
+Rivals in the dark: How competition influences search in decisions under uncertainty
+Eye contact elicits bodily self-awareness in human adults
+Demonstrator skill modulates observational aversive learning
+Word informativity influences acoustic duration: Effects of contextual predictability on lexical representation
+A novel argument for the Universality of Parsing principles
+Improving arithmetic performance with number sense training: An investigation of underlying mechanism
+Working memory updating and the development of rule-guided behavior
+Altered attention for stimuli on the hands
+Speaking two languages at once: Unconscious native word form access in second language production
+Becoming a written word: Eye movements reveal order of acquisition effects following incidental exposure to new words during silent reading
+Syntax and intentionality: An automatic link between language and theory-of-mind
+Grammatical aspect and event recognition in children’s online sentence comprehension
+Why did this happen to me? Religious believers’ and non-believers’ teleological reasoning about life events
+Comparison of active and purely visual performance in a multiple-string means-end task in infants
+The influence of speaker gaze on listener comprehension: Contrasting visual versus intentional accounts
+Knowing what, where, and when: Event comprehension in language processing
+Working memory predicts semantic comprehension in dichotic listening in older adults
+Task instructions and implicit theory of mind
+For the greater goods? Ownership rights and utilitarian moral judgment
+Biased generalization of newly learned phonological alternations by 12-month-old infants
+Visual experience influences the interactions between fingers and numbers
+Outcomes and intentions in children’s, adolescents’, and adults’ second- and third-party punishment behavior
+Differential effect of one versus two hands on visual processing
+Harm concerns predict moral judgments of suicide: Comment on Rottman, Kelemen and Young (2014)
+Purity matters more than harm in moral judgments of suicide: Response to Gray (2014)
+Costly third-party punishment in young children
+Toys are me: Children’s extension of self to objects
+The construction of categorization judgments: Using subjective confidence and response latency to test a distributed model
+Foreperiod priming in temporal preparation: Testing current models of sequential effects
+Social scaling of extrapersonal space: Target objects are judged as closer when the reference frame is a human agent with available movement potentialities
+Ontological confusions but not mentalizing abilities predict religious belief, paranormal belief, and belief in supernatural purpose
+The sexualized-body-inversion hypothesis revisited: Valid indicator of sexual objectification or methodological artifact?
+Immediate lexical integration of novel word forms
+There is more to eye contact than meets the eye
+The role of (dis)inhibition in creativity: Decreased inhibition improves idea generation
+The drunk utilitarian: Blood alcohol concentration predicts utilitarian responses in moral dilemmas
+Manual action, fitting, and spatial planning: Relating objects by young children
+Playing by the rules: Self-interest information influences children’s trust and trustworthiness in the absence of feedback
+The tree to the left, the forest to the right: Political attitude and perceptual bias
+Rest is best: The role of rest and task interruptions on vigilance
+Contribution of motor representations to action verb processing
+Who can communicate with whom? Language experience affects infants’ evaluation of others as monolingual or multilingual
+‘Utilitarian’ judgments in sacrificial moral dilemmas do not reflect impartial concern for the greater good
+Developing expectations regarding the boundaries of expertise
+Synchronization to auditory and visual rhythms in hearing and deaf individuals
+Adjustments of response speed and accuracy to unconscious cues
+Information without content: A Gibsonian reply to enactivists’ worries
+Evidence for a supra-modal representation of emotion from cross-modal adaptation
+Even at 4 months, a labial is a good enough coronal, but not vice versa
+Corrigendum to “Becoming a written word: Eye movements reveal order of acquisition effects following incidental exposure to new words during silent reading” [Cognition 133/1 (2014) 238–248]
+Analyzing the history of Cognition using Topic Models
+Developmental insights into mature cognition
+How cognitive theory guides neuroscience
+Manifesto for a new (computational) cognitive revolution
+Fitting perception in and to cognition
+The social life of cognition
+Philosophers are doing something different now: Quantitative data
+The rise of moral cognition
+Cognitive science contributions to decision science
+Connecting cognition and consumer choice
+Can cognitive science create a cognitive economics?
+Laws of cognition and the cognition of law
+Reviewers Acknowledgement
+The role of relational triggers in event perception
+Harmful situations, impure people: An attribution asymmetry across moral domains
+Specialized mechanisms for theory of mind: Are mental representations special because they are mental or because they are representations?
+Electrophysiological evidence for the role of shared space in online comprehension of spatial demonstratives
+18-month-olds comprehend indirect communicative acts
+Pigeons acquire multiple categories in parallel via associative learning: A parallel to human word learning?
+How many kinds of reasoning? Inference, probability, and natural language semantics
+Effects of prediction and contextual support on lexical processing: Prediction takes precedence
+Multi-modal distraction: Insights from children’s limited attention
+Learning with sublexical information from emerging reading vocabularies in exceptionally early and normal reading development
+What is the link between synaesthesia and sound symbolism?
+Infants’ representations of others’ goals: Representing approach over avoidance
+Eye movements reveal memory processes during similarity- and rule-based decision making
+It is there whether you hear it or not: Syntactic representation of missing arguments
+Space–time interdependence: Evidence against asymmetric mapping between time and space
+Is there something special with probabilities? – Insight vs. computational ability in multiple risk combination
+Variation in dual-task performance reveals late initiation of speech planning in turn-taking
+How does the interaction between spelling and motor processes build up during writing acquisition?
+Metamemory appraisals in autobiographical event recall
+Array heterogeneity prevents catastrophic forgetting in infants
+Watching language grow in the manual modality: Nominals, predicates, and handshapes
+Enhanced visual awareness for morality and pajamas? Perception vs. memory in ‘top-down’ effects
+Four-year-olds’ strategic allocation of resources: Attempts to elicit reciprocation correlate negatively with spontaneous helping
+Pricing decisions from experience: The roles of information-acquisition and response modes
+Was it me when it happened too early? Experience of delayed effects shapes sense of agency
+Revealing ontological commitments by magic
+Natural forces as agents: Reconceptualizing the animate–inanimate distinction
+Language influences number processing – A quadrilingual study
+Why loose rings can be tight: The role of learned object knowledge in the development of Korean spatial fit terms
+Cross-linguistic gestures reflect typological universals: A subject-initial, verb-final bias in speakers of diverse languages
+Emphasizing the only character: Emphasis, attention and contrast
+Structure emerges faster during cultural transmission in children than in adults
+Predictive processing of novel compounds: Evidence from Japanese
+The dual function of social gaze
+Disentangling multimodal processes in social categorization
+Face inversion and acquired prosopagnosia reduce the size of the perceptual field of view
+RETRACTED: Fueling doubt and openness: Experiencing the unconscious, constructed nature of perception induces uncertainty and openness to change
+Distinctive voices enhance the visual recognition of unfamiliar faces
+Probability in reasoning: A developmental test on conditionals
+Giving and taking: Representational building blocks of active resource-transfer events in human infants
+Spontaneous object and movement representations in 4-month-old human infants and albino Swiss mice
+Developmentally distinct gaze processing systems: Luminance versus geometric cues
+Generality and specificity in the effects of musical expertise on perception and cognition
+Tip-of-the-tongue in a second language: The effects of brief first-language exposure and long-term use
+Modeling individual differences in response time and accuracy in numeracy
+On the acquisition of abstract knowledge: Structural alignment and explication in learning causal system categories
+Your kid could not have done that: Even untutored observers can discern intentionality and structure in abstract expressionist art
+A sentence to remember: Instructed language switching in sentence production
+Causal superseding
+The impact of late, non-balanced bilingualism on cognitive performance
+The role of similarity, sound and awareness in the appreciation of visual artwork via motor simulation
+Varieties of testimony: Children’s selective learning in semantic versus episodic domains
+Movement preparation improves touch perception without awareness
+Toddlers encode similarities among novel words from meaningful sentences
+From self to social cognition: Theory of Mind mechanisms and their relation to Executive Functioning
+Verbal framing of statistical evidence drives children’s preference inferences
+The influence of visual feedback from the recent past on the programming of grip aperture is grasp-specific, shared between hands, and mediated by sensorimotor memory not task set
+The developing cognitive substrate of sequential action control in 9- to 12-month-olds: Evidence for concurrent activation models
+Developing intuitions about free will between ages four and six
+Children’s mappings between number words and the approximate number system
+I control therefore I do: Judgments of agency influence action selection
+Visual, haptic and bimodal scene perception: Evidence for a unitary representation
+Single-trial multisensory memories affect later auditory and visual object discrimination
+The truth about lying
+Prospect evaluation as a function of numeracy and probability denominator
+Timing matters: The impact of label synchrony on infant categorisation
+Losses as ecological guides: Minor losses lead to maximization and not to avoidance
+Deciding on race: A diffusion model analysis of race-categorisation
+Context-driven expectations about focus alternatives
+Task constraints distinguish perspective inferences from perspective use during discourse interpretation in a false belief task
+Harmonic biases in child learners: In support of language universals
+A Bayesian framework for knowledge attribution: Evidence from semantic integration
+Categorization training increases the perceptual separability of novel dimensions
+Evaluating the inverse reasoning account of object discovery
+Reward and punishment act as distinct factors in guiding behavior
+Tracking word frequency effects through 130 years of sound change
+A fallacious “Gambler’s Fallacy”? Commentary on Xu and Harvey (2014)
+Carry on winning: No selection effect
+Necker’s smile: Immediate affective consequences of early perceptual processes
+Children’s understanding of the costs and rewards underlying rational action
+Constituents of political cognition: Race, party politics, and the alliance detection system
+Selective memory retrieval in social groups: When silence is golden and when it is not
+Me and we: Metacognition and performance evaluation of joint actions
+Does hearing two dialects at different times help infants learn dialect-specific rules?
+The divided mind of a disbeliever: Intuitive beliefs about nature as purposefully created among different groups of non-religious adults
+Auditory working memory predicts individual differences in absolute pitch learning
+Scale invariance of temporal order discrimination using complex, naturalistic events
+Semantic facilitation in bilingual first language acquisition
+Mothers modulate their gesture independently of their speech
+Parallel language activation and inhibitory control in bimodal bilinguals
+The working memory Ponzo illusion: Involuntary integration of visuospatial information stored in visual working memory
+On the road to somewhere: Brain potentials reflect language effects on motion event perception
+How communication changes when we cannot mime the world: Experimental evidence for the effect of iconicity on combinatoriality
+Signaling equilibria in sensorimotor interactions
+Compression and communication in the cultural evolution of linguistic structure
+Slip of the tongue: Implications for evolution and language development
+Walking direction triggers visuo-spatial orienting in 6-month-old infants and adults: An eye tracking study
+Recalibration of auditory phonemes by lipread speech is ear-specific
+Philosophers’ biased judgments persist despite training, expertise and reflection
+Grammar of Binding in the languages of the world: Innate or learned?
+Viewers base estimates of face matching accuracy on their own familiarity: Explaining the photo-ID paradox
+Asymmetric activation spreading in the multiplication associative network due to asymmetric overlap between numerosities semantic representations?
+Risk taking in adversarial situations: Civilization differences in chess experts
+Space and time in the sighted and blind
+The representation of women in cognition
+Spoken word recognition in early childhood: Comparative effects of vowel, consonant and lexical tone variation
+A decision network account of reasoning about other people’s choices
+Goal attributions and instrumental helping at 14 and 24 months of age
+The role of cognitive abilities in decisions from experience: Age differences emerge as a function of choice set size
+Evidence for capacity sharing when stopping
+Environmental stability modulates the role of path integration in human navigation
+Individual differences in spatial cognition influence mental simulation of language
+How distinct is the coding of face identity and expression? Evidence for some common dimensions in face space
+Learning from gesture: How early does it happen?
+Privileged versus shared knowledge about object identity in real-time referential processing
+Tip-of-the-tongue states reoccur because of implicit learning, but resolving them helps
+The kind of group you want to belong to: Effects of group structure on group accuracy
+Parallel temporal dynamics in hierarchical cognitive control
+Intuitive anatomy: Distortions of conceptual knowledge of hand structure
+Go when you know: Chimpanzees’ confidence movements reflect their responses in a computerized memory task
+Modeling the approximate number system to quantify the contribution of visual stimulus features
+Using instruments to understand argument structure: Evidence for gradient representation
+The role of explanatory considerations in updating
+Override the controversy: Analytic thinking predicts endorsement of evolution
+Imitate or innovate? Children’s innovation is influenced by the efficacy of observed behaviour
+Accessibility is a matter of trust: Dispositional and contextual distrust blocks accessibility effects
+Imitative flexibility and the development of cultural learning
+Resolving the locus of cAsE aLtErNaTiOn effects in visual word recognition: Evidence from masked priming
+Keeping an eye on serial order: Ocular movements bind space and time
+Anticipatory coarticulation facilitates word recognition in toddlers
+Corrigendum to ‘ “Piensa” twice: On the foreign language effect in decision making’ [Cognition 130 (2) (2014) 236–254]
+The pretense debate
+More than one way to see it: Individual heuristics in avian visual computation
+Cue-independent forgetting by intentional suppression – Evidence for inhibition as the mechanism of intentional forgetting
+Poor judgment of distance between nociceptive stimuli
+Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension
+Simulating the cross-linguistic pattern of Optional Infinitive errors in children’s declaratives and Wh- questions
+Learning novel phonological neighbors: Syntactic category matters
+What makes words special? Words as unmotivated cues
+The PCA learning effect: An emerging correlate of face memory during childhood
+Making eye contact without awareness
+The processing of polar quantifiers, and numerosity perception
+Finding the music of speech: Musical knowledge influences pitch processing in speech
+Affective cognition: Exploring lay theories of emotion
+Why are some dimensions integral? Testing two hypotheses through causal learning experiments
+Deconstructing phonological tasks: The contribution of stimulus and response type to the prediction of early decoding skills
+Infants generalize from just (the right) four words
+In search of lost time: Reconstructing the unfolding of events from memory
+Children adapt their questions to achieve efficient search
+Side flankers produce less crowding, but only for letters
+An explanatory heuristic gives rise to the belief that words are well suited for their referents
+Sleep promotes analogical transfer in problem solving
+Language exposure facilitates talker learning prior to language comprehension, even in adults
+Recent evolution of learnability in American English from 1800 to 2000
+Preferential awareness of protofacial stimuli in autism
+Questioning short-term memory and its measurement: Why digit span measures long-term associative learning
+Gesture as a window onto children’s number knowledge
+How short- and long-run aspirations impact search and choice in decisions from experience
+Serial-order learning impairment and hypersensitivity-to-interference in dyscalculia
+Peripersonal space as the space of the bodily self
+The planning and execution of natural sequential actions in the preschool years
+The influence of expertise on essence beliefs for mental and medical disorder categories
+How do children weigh competence and benevolence when deciding whom to trust?
+A cultural setting where the other-race effect on face recognition has no social–motivational component and derives entirely from lifetime perceptual experience
+Geometric and featural systems, separable and combined: Evidence from reorientation in people with Williams syndrome
+In the name of God: How children and adults judge agents who act for religious versus secular reasons
+Highs and Lows in English Attachment
+The development of the illusion of control and sense of agency in 7- to-12-year old children and adults
+Adopting the ritual stance: The role of opacity and context in ritual and everyday actions
+Unifying morality’s influence on non-moral judgments: The relevance of alternative possibilities
+Visual features for perception, attention, and working memory: Toward a three-factor framework
+An integrative account of constraints on cross-situational learning
+Communication about absent entities in great apes and human infants
+Mental files and belief: A cognitive theory of how children represent belief and its intensionality
+Identifying and counting objects: The role of sortal concepts
+The importance of iteration in creative conceptual combination
+Transient reduction of visual distraction following electrical stimulation of the prefrontal cortex
+Working memory contents revive the neglected, but suppress the inhibited
+Frequency-based organization of speech sequences in a nonhuman animal
+Perceived interpersonal synchrony increases empathy: Insights from autism spectrum disorder
+Identical but not interchangeable: Preschoolers view owned objects as non-fungible
+Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley
+Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts
+Ten-year-old children strategies in mental addition: A counting model account
+Time reordered: Causal perception guides the interpretation of temporal order
+Environmental constraints shaping constituent order in emerging communication systems: Structural iconicity, interactive alignment and conventionalization
+Sequential processing during noun phrase production
+How action structures time: About the perceived temporal order of action and predicted outcomes
+Oops, scratch that! Monitoring one’s own errors during mental calculation
+Executive control and task switching in pigeons
+Don’t be fooled! Attentional responses to social cues in a face-to-face and video magic trick reveals greater top-down control for overt than covert attention
+The semantic origin of unconscious priming: Behavioral and event-related potential evidence during category congruency priming from strongly and weakly related masked words
+The sadistic trait predicts minimization of intention and causal responsibility in moral judgment
+Is there a domain-general cognitive structuring system? Evidence from structural priming across music, math, action descriptions, and language
+Reducing consistency in human realism increases the uncanny valley effect; increasing category uncertainty does not
+The effect of auditory verbal imagery on signal detection in hallucination-prone individuals
+Running the number line: Rapid shifts of attention in single-digit arithmetic
+Infants use temporal regularities to chunk objects in memory
+The effect of domain-general inhibition-related training on language switching: An ERP study
+Organization principles in visual working memory: Evidence from sequential stimulus display
+Fast automated counting procedures in addition problem solving: When are they used and why are they mistaken for retrieval?
+A multimodal parallel architecture: A cognitive framework for multimodal interactions
+The Alternative Omen Effect: Illusory negative correlation between the outcomes of choice options
+What makes a movement a gesture?
+Where are the cookies? Two- and three-year-olds use number-marked verbs to anticipate upcoming nouns
+Individual consistency in the accuracy and distribution of confidence judgments
+Position tracking and identity tracking are separate systems: Evidence from eye movements
+Prospective and Pavlovian mechanisms in aversive behaviour
+Believe it or not: Moving non-biological stimuli believed to have human origin can be represented as human movement
+Can I cut the Gordian tnok? The impact of pronounceability, actual solvability, and length on intuitive problem assessments of anagrams
+Adults with poor reading skills: How lexical knowledge interacts with scores on standardized reading comprehension tests
+What the [beep]? Six-month-olds link novel communicative signals to meaning
+Statistical regularities reduce perceived numerosity
+Social task switching: On the automatic social engagement of executive functions
+Language production is facilitated by semantic richness but inhibited by semantic density: Evidence from picture naming
+I see what you say: Prior knowledge of other’s goals automatically biases the perception of their actions
+Detecting the perception of illusory spatial boundaries: Evidence from distance judgments
+With God on our side: Religious primes reduce the envisioned physical formidability of a menacing adversary
+Cultural effects on mindreading
+‘Am I moving?’ An illusion of agency and ownership in mirror-touch synaesthesia
+Towards a common framework of grounded action cognition: Relating motor control, perception and cognition
+Universality in eye movements and reading: A trilingual investigation
+Young children show representational flexibility when interpreting drawings
+Comprehension priming as rational expectation for repetition: Evidence from syntactic processing
+Conceptual and procedural distinctions between fractions and decimals: A cross-national comparison
+Listeners use speaker identity to access representations of spatial perspective during online language comprehension
+Rational over-imitation: Preschoolers consider material costs and copy causally irrelevant actions selectively
+Burdens of non-conformity: Motor execution reveals cognitive conflict during deliberate rule violations
+Walking blindfolded unveils unique contributions of behavioural approach and inhibition to lateral spatial bias
+Gift from statistical learning: Visual statistical learning enhances memory for sequence elements and impairs memory for items that disrupt regularities
+Why we forgive what can’t be controlled
+Simultaneous segmentation and generalisation of non-adjacent dependencies from continuous speech
+Language familiarity modulates relative attention to the eyes and mouth of a talker
+Knowing Chinese character grammar
+Prolonged focal attention without binding: Tracking a ball for half a minute without remembering its color
+Reviewers Acknowledgement
+Does language shape silent gesture?
+Reward alters the perception of time
+Comparing the role of selective and divided attention in the composite face effect: Insights from Attention Operating Characteristic (AOC) plots and cross-contingency correlations
+Why do some neurons in cortex respond to information in a selective manner? Insights from artificial neural networks
+The Vanishing Ball Illusion: A new perspective on the perception of dynamic events
+Motor system contribution to action prediction: Temporal accuracy depends on motor experience
+Spatial memory in foraging games
+Unintentional perspective-taking calculates whether something is seen, but not how it is seen
+Shared cultural knowledge: Effects of music on young children’s social preferences
+Perceiving referential intent: Dynamics of reference in natural parent–child interactions
+Event boundaries and memory improvement
+If I am free, you can’t own me: Autonomy makes entities less ownable
+British English infants segment words only with exaggerated infant-directed speech stimuli
+Taking someone else’s spatial perspective: Natural stance or effortful decentring?
+Effects of statistical learning on the acquisition of grammatical categories through Qur’anic memorization: A natural experiment
+The effect of childhood bilectalism and multilingualism on executive control
+Automatic analysis of slips of the tongue: Insights into the cognitive architecture of speech production
+Non-formal mechanisms in mathematical cognitive development: The case of arithmetic
+Hands typing what hands do: Action–semantic integration dynamics throughout written verb production
+Other-self confusions in action memory: The role of motor processes
+Visual input signaling threat gains preferential access to awareness in a breaking continuous flash suppression paradigm
+Stimulation over primary motor cortex during action observation impairs effector recognition
+Children’s capacity to use cultural focal points in coordination problems
+Perspective-taking behavior as the probabilistic weighing of multiple domains
+The rules of tool incorporation: Tool morpho-functional & sensori-motor constraints
+Estimations of object frequency are frequently overestimated
+Free versus anchored numerical estimation: A unified approach
+Processing compound words: Evidence from synaesthesia
+Disparate bilingual experiences modulate task-switching advantages: A diffusion-model analysis of the effects of interactional context on switch costs
+Blame, not ability, impacts moral “ought” judgments for impossible actions: Toward an empirical refutation of “ought” implies “can”
+The relevance effect and conditionals
+I’ve got your number: Spontaneous perspective-taking in an interactive task
+Smoke and mirrors: Testing the scope of chimpanzees’ appearance–reality understanding
+Beyond magnitude: Judging ordinality of symbolic number is unrelated to magnitude comparison and independently relates to individual differences in arithmetic
+The not face: A grammaticalization of facial expressions of emotion
+Instruction to forget lead to emotional devaluation
+Eliminating dual-task costs by minimizing crosstalk between tasks: The role of modality and feature pairings
+The time course of conflict on the Cognitive Reflection Test
+A bilingual disadvantage in metacognitive processing
+Interference effects of categorization on decision making
+Inhibition drives configural superiority of illusory Gestalt: Combined behavioral and drift–diffusion model evidence
+Pupillary responses reveal infants’ discrimination of facial emotions independent of conscious perception
+Language supports young children’s use of spatial relations to remember locations
+Imagination in human social cognition, autism, and psychotic-affective conditions
+Training children’s theory-of-mind: A meta-analysis of controlled studies
+The effects of bilingualism on conflict monitoring, cognitive control, and garden-path recovery
+Can model-free reinforcement learning explain deontological moral judgments?
+Lying despite telling the truth
+No evidence of learning in non-symbolic numerical tasks – A comment on Park and Brannon (2014)
+How to interpret cognitive training studies: A reply to Lindskog & Winman
+Social constraints from an observer’s perspective: Coordinated actions make an agent’s position more predictable
+Word learning under infinite uncertainty
+Unusual hand postures but not familiar tools show motor equivalence with precision grasping
+Cognitive framing in action
+Mood migration: How enfacing a smile makes you happier
+Some people are “More Lexical” than others
+Vagueness, graded membership, and conceptual spaces
+What you see isn’t always what you get: Auditory word signals trump consciously perceived words in lexical access
+Where music meets space: Children’s sensitivity to pitch intervals is related to their mental spatial transformation skills
+Believing there is no free will corrupts intuitive cooperation
+Numeracy moderates the influence of task-irrelevant affect on probability weighting
+Adaptation to number operates on perceived rather than physical numerosity
+Costly rejection of wrongdoers by infants and children
+What baboons can (not) tell us about natural language grammars
+Corrigendum to ‘‘Non-formal mechanisms in mathematical cognitive development: The case of arithmetic’’ [Cognition 149 (2016) 40–55]
+Event construal and temporal distance in natural language
+The influence of bilingualism on statistical word learning
+Cumulative semantic interference for associative relations in language production
+Young children do not succeed in choice tasks that imply evaluating chances
+A helping hand putting in order: Visuomotor routines organize numerical and non-numerical sequences in space
+What infants know about the unsaid: Phonological categorization in the absence of auditory input
+Attentional effects on rule extraction and consolidation from speech
+Picture yourself: Self-focus and the endowment effect in preschool children
+Can you perceive ensembles without perceiving individuals?: The role of statistical perception in determining whether awareness overflows access
+Seeing the unseen: Second-order correlation learning in 7- to 11-month-olds
+From faces to hands: Changing visual input in the first two years
+Reach tracking reveals dissociable processes underlying cognitive control
+Children’s imagination and belief: Prone to flights of fancy or grounded in reality?
+The sound of distance
+Language dominance shapes non-linguistic rhythmic grouping in bilinguals
+Neural signature of hierarchically structured expectations predicts clustering and transfer of rule sets in reinforcement learning
+Strength and weight: The determinants of choice and confidence
+Rate–distortion theory and human perception
+Tuning the mind: Exploring the connections between musical ability and executive functions
+Intimate imitation: Automatic motor imitation in romantic relationships
+Similar impressions of humanness for human and artificial singing voices in autism spectrum disorders
+Children’s derivation of scalar implicatures: Alternatives and relevance
+Observing others stay or switch – How social prediction errors are integrated into reward reversal learning
+Action-outcome learning and prediction shape the window of simultaneity of audiovisual outcomes
+Preschoolers value those who sanction non-cooperators
+Working memory capacity and controlled serial memory search
+Statistical learning is constrained to less abstract patterns in complex sensory input (but not the least)
+The influence of children’s exposure to language from two to six years: The case of nonword repetition
+Culture modulates implicit ownership-induced self-bias in memory
+Language and memory for object location
+Try to see it my way: Embodied perspective enhances self and friend-biases in perceptual matching
+Lexical distributional cues, but not situational cues, are readily used to learn abstract locative verb-structure associations
+Robust representation of shape in a Grey parrot (Psittacus erithacus)
+Orthographic units in the absence of visual processing: Evidence from sublexical structure in braille
+Listening to the calls of the wild: The role of experience in linking language and cognition in young infants
+The length of words reflects their conceptual complexity
+Building ensemble representations: How the shape of preceding distractor distributions affects visual search
+The role of shared visual information for joint action coordination
+A smoothness constraint on the development of object recognition
+Corrigendum to “Instruction to forget leads to emotional devaluation” [Cognition 150 (2016) 85–91]
+Corrigendum to “Social constraints from an observer’s perspective: Coordinated actions make an agent’s position more predictable” [Cognition 151 (2016) 10–17]
+Introducing a fund for open-access fees
+Politeness and the communication of uncertainty
+Prosodic expectations in silent reading: ERP evidence from rhyme scheme and semantic congruence in classic Chinese poems
+What is automatized during perceptual categorization?
+The emergence of reasoning by the disjunctive syllogism in early childhood
+Cognitive mapping in mental time travel and mental space navigation
+Serial position encoding of signs
+Pupil dilation during recognition memory: Isolating unexpected recognition from judgment uncertainty
+Object formation in visual working memory: Evidence from object-based attention
+The historical context in conversation: Lexical differentiation and memory for the discourse history
+Salience-driven overestimation of total somatosensory stimulation
+Rapid and long-lasting learning of feature binding
+What the [bleep]? Enhanced absolute pitch memory for a 1000 Hz sine tone
+The role of spatial boundaries in shaping long-term event representations
+The source dilemma hypothesis: Perceptual uncertainty contributes to musical emotion
+Conceptual processing is referenced to the experienced location of the self, not to the location of the physical body
+Foreign language affects the contribution of intentions and outcomes to moral judgment
+The format of children’s mental images: Evidence from mental scanning
+Infants with Williams syndrome detect statistical regularities in continuous speech
+Magicians fix your mind: How unlikely solutions block obvious ones
+In Memoriam: Jerome Seymour Bruner [1915–2016]
+Working memory gating mechanisms explain developmental change in rule-guided behavior
+Optimal sequencing during category learning: Testing a dual-learning systems perspective
+Great apes and children infer causal relations from patterns of variation and covariation
+The magnetic touch illusion: A perceptual correlate of visuo-tactile integration in peripersonal space
+The phonetic landscape in infant consonant perception is an uneven terrain
+The seductive allure is a reductive allure: People prefer scientific explanations that contain logically irrelevant reductive information
+Qualitative differences in memory for vista and environmental spaces are caused by opaque borders, not movement or successive presentation
+Chunk formation in immediate memory and how it relates to data compression
+Memory as embodiment: The case of modality and serial short-term memory
+Cue-independent memory impairment by reactivation-coupled interference in human declarative memory
+It’s all in the past: Deconstructing the temporal Doppler effect
+Young children’s preference for unique owned objects
+Voluntary motor commands reveal awareness and control of involuntary movement
+Young children infer preferences from a single action, but not if it is constrained
+Rectifying social inequalities in a resource allocation task
+Vowels, then consonants: Early bias switch in recognizing segmented word forms
+Investigating locality effects and surprisal in written English syntactic choice phenomena
+Conflict between object structural and functional affordances in peripersonal space
+Selective orienting to pleasant versus unpleasant visual scenes
+The impact of subliminal effect images in voluntary vs. stimulus-driven actions
+Typing pictures: Linguistic processing cascades into finger movements
+The early emergence and puzzling decline of relational reasoning: Effects of knowledge and search on inferring abstract concepts
+Naming influences 9-month-olds’ identification of discrete categories along a perceptual continuum
+Utterances in infant-directed speech are shorter, not slower
+When pumpkin is closer to onion than to squash: The structure of the second language lexicon
+Word learning in linguistic context: Processing and memory effects
+Emotional valence of stimuli modulates false recognition: Using a modified version of the simplified conjoint recognition paradigm
+Control of information in working memory: Encoding and removal of distractors in the complex-span paradigm
+It’s all in the delivery: Effects of context valence, arousal, and concreteness on visual word processing
+The emergence of temporal language in Nicaraguan Sign Language
+How prescriptive norms influence causal inferences
+Prisms to travel in time: Investigation of time-space association through prismatic adaptation effect on mental time travel
+Anxiety impairs spontaneous perspective calculation: Evidence from a level-1 visual perspective-taking task
+The need to belong motivates demand for authentic objects
+The infamous among us: Enhanced reputational memory for uncooperative ingroup members
+Mental simulation of routes during navigation involves adaptive temporal compression
+The selfless mind: How prefrontal involvement in mentalizing with similar and dissimilar others shapes empathy and prosocial behavior
+Temporal limits on rubber hand illusion reflect individuals’ temporal resolution in multisensory perception
+Spontaneous preference for visual cues of animacy in naïve domestic chicks: The case of speed changes
+Inferring mass in complex scenes by mental simulation
+Strategies for memory-based decision making: Modeling behavioral and neural signatures within a cognitive architecture
+Observing joint action: Coordination creates commitment
+Physical and mental effort disrupts the implicit sense of agency
+How (in)variant are subjective representations of described and experienced risk and rewards?
+Early conversational environment enables spontaneous belief attribution in deaf children
+Competitive control of cognition in rhesus monkeys
+Incremental implicit learning of bundles of statistical patterns
+The importance of lexical verbs in the acquisition of spatial prepositions: The case of in and on
+The influence of intention, outcome and question-wording on children’s and adults’ moral judgments
+Contrasting preschoolers’ verbal reasoning in an object-individuation task with young infants’ preverbal feats
+Seeing conflict and engaging control: Experience with contrastive language benefits executive function in preschoolers
+Infants anticipate probabilistic but not deterministic outcomes
+Surprise capture and inattentional blindness
+Integrating social and facial models of person perception: Converging and diverging dimensions
+Psych verbs, the linking problem, and the acquisition of language
+A three-dimensional spatial characterization of the crossed-hands deficit
+Probabilistic representation in syllogistic reasoning: A theory to integrate mental models and heuristics
+Negative polarity illusions and the format of hierarchical encodings in memory
+Beyond associations: Sensitivity to structure in pre-schoolers’ linguistic predictions
+Description and experience: How experimental investors learn about booms and busts affects their financial risk taking
+Abstract knowledge versus direct experience in processing of binomial expressions
+Young infants view physically possible support events as unexpected: New evidence for rule learning
+Consistent and cumulative effects of syntactic experience in children’s sentence production: Evidence for error-based implicit learning
+When we cannot speak: Eye contact disrupts resources available to cognitive control processes during verb generation
+Object individuation is invariant to attentional diffusion: Changes in the size of the attended region do not interact with object-substitution masking
+Temporal distortion in the perception of actions and events
+Successful communication does not drive language development: Evidence from adult homesign
+From face processing to face recognition: Comparing three different processing levels
+Time to decide: Diurnal variations on the speed and quality of human decisions
+Preschool children use space, rather than counting, to infer the numerical magnitude of digits: Evidence for a spatial mapping principle
+Schematic representations of local environmental space guide goal-directed navigation
+Physical attraction to reliable, low variability nervous systems: Reaction time variability predicts attractiveness
+Fast logic?: Examining the time course assumption of dual process theory
+Can bootstrapping explain concept learning?
+Shape and color naming are inherently asymmetrical: Evidence from practice-based interference
+From development to aging: Holistic face perception in children, younger and older adults
+Is the L2 lexicon different from the L1 lexicon? Evidence from novel word lexicalization
+Causal capture effects in chimpanzees (Pan troglodytes)
+Pragmatic development explains the Theory-of-Mind Scale
+Infants’ detection of increasing numerical order comes before detection of decreasing number
+The effect of being human and the basis of grammatical word order: Insights from novel communication systems and young sign languages
+Internal model of gravity influences configural body processing
+The functional consequences of social distraction: Attention and memory for complex scenes
+Implicit moral evaluations: A multinomial modeling approach
+Disfluency effects on lexical selection
+Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy
+Learning language from within: Children use semantic generalizations to infer word meanings
+Surprise! 20-month-old infants understand the emotional consequences of false beliefs
+Seeing the world through others’ minds: Inferring social context from behaviour
+Exploring socioeconomic differences in syntactic development through the lens of real-time processing
+Infant attention to same- and other-race faces
+Hierarchical organization in visual working memory: From global ensemble to individual object structure
+The cradle of social knowledge: Infants’ reasoning about caregiving and affiliation
+Exploration and exploitation of Victorian science in Darwin’s reading notebooks
+Eye movements reveal a dissociation between memory encoding and retrieval in adults with autism
+Spoken word recognition in young tone language learners: Age-dependent effects of segmental and suprasegmental variation
+The regularity game: Investigating linguistic rule dynamics in a population of interacting agents
+Dissociating processes underlying level-1 visual perspective taking in adults
+Individual differences in nonverbal number skills predict math anxiety
+Reviewers Acknowledgement
+Reaction time profiles of adults’ action prediction reveal two mindreading systems
+Reduced sensitivity to social priors during action prediction in adults with autism spectrum disorders
+Six-month-old infants expect agents to minimize the cost of their actions
+Venturing into the uncanny valley of mind—The influence of mind attribution on the acceptance of human-like characters in a virtual reality setting
+Non-uniform transformation of subjective time during action preparation
+Prior conscious experience enhances conscious perception but does not affect response priming<U+2606>
+A dissociation between small and large numbers in young children’s ability to “solve for x” in non-symbolic math problems
+Autism does not limit strategic thinking in the “beauty contest” game
+Read my lips: Visual speech influences word processing in infants
+A referential theory of the repetition-induced truth effect
+The effects of utterance timing and stimulation of left prefrontal cortex on the production of referential expressions
+Children’s and adults’ use of verbal information to visually anticipate others’ actions: A study on explicit and implicit social-cognitive processing
+Not so fast: Fast speech correlates with lower lexical and structural information
+Listen up! Developmental differences in the impact of IDS on speech segmentation
+Testing the causal theory of reference
+The social nature of overimitation: Insights from Autism and Williams syndrome
+How does a newly encountered face become familiar? The effect of within-person variability on adults’ and children’s perception of identity
+Cognitive representation of “musical fractals”: Processing hierarchy and recursion in the auditory domain
+Teasing apart coercion and surprisal: Evidence from eye-movements and ERPs
+Undoing the past in order to lie in the present: Counterfactual thinking and deceptive communication
+Normality and actual causal strength
+Musical friends and foes: The social cognition of affiliation and control in improvised interactions
+Religious beliefs are factual beliefs: Content does not correlate with context sensitivity
+The double identity of doubling: Evidence for the phonology–morphology split
+The predictability of a partner’s actions modulates the sense of joint agency
+Chimpanzees process structural isomorphisms across sensory modalities
+When categorization-based stranger avoidance explains the uncanny valley: A comment on MacDorman and Chattopadhyay (2016)
+Categorization-based stranger avoidance does not explain the uncanny valley effect
+Suppressing memories of words and familiar objects results in their affective devaluation: Evidence from Think/No-think tasks
+Direct and indirect influences of executive functions on mathematics achievement
+Visual illusion of tool use recalibrates tactile perception
+Projecting the self outside the body: Body representations underlying proprioceptive imagery
+Keep flexible – Keep switching! The influence of forced task switching on voluntary task switching
+Representing composed meanings through temporal binding
+“I use it when I see it”: The role of development and experience in Deaf and hearing children’s understanding of iconic gesture
+Alignability-based free categorization
+Conceptualizing agency: Folkpsychological and folkcommunicative perspectives on plants
+The perceptual and phenomenal capacity of mental imagery
+Mutual intentions as a causal framework for social groups
+Retrieval-induced forgetting is retrieval-modality specific: Evidence from motor memory
+Having control over the external world increases the implicit sense of agency
+Current evidence for automatic Theory of Mind processing in adults
+Modeling the N400 ERP component as transient semantic over-activation within a neural network model of word comprehension
+Expectancy violations promote learning in young children
+Does everyone have a price? On the role of payoff magnitude for ethical decision making
+Long live the King! Beginnings loom larger than endings of past and recurrent events
+Sequential congruency effects reveal differences in disengagement of attention for monolingual and bilingual young adults
+An adaptive cue combination model of human spatial reorientation
+Phrasal prosody constrains syntactic analysis in toddlers
+Hierarchical organization in the temporal structure of infant-direct speech and song
+Orthographic learning, fast and slow: Lexical competition effects reveal the time course of word learning in developing readers
+What do we do with what we learn? Statistical learning of orthographic regularities impacts written word processing
+Linking actions and objects: Context-specific learning of novel weight priors
+Words cluster phonetically beyond phonotactic regularities
+Own attractiveness and perceived relationship quality shape sensitivity in women’s memory for other men on the attractiveness dimension
+Minds in motion in memory: Enhanced spatial memory driven by the perceived animacy of simple shapes
+Multisensory object perception in infancy: 4-month-olds perceive a mistuned harmonic as a separate auditory and visual object
+‘To the victor go the spoils’: Infants expect resources to align with dominance structures
+Variations in judgments of intentional action and moral evaluation across eight cultures
+Individual differences in the Simon effect are underpinned by differences in the competitive dynamics in the basal ganglia: An experimental verification and a computational model
+The semantic representation of prejudice and stereotypes
+Hierarchical levels of representation in language prediction: The influence of first language acquisition in highly proficient bilinguals
+Compensation mechanisms that improve distractor filtering are short-lived
+The residual protective effects of enactment
+Infants’ motor simulation of observed actions is modulated by the visibility of the actor’s body
+Bootstrapping language acquisition
+Executive function depletion in children and its impact on theory of mind
+Cognitive control in action: Tracking the dynamics of rule switching in 5- to 8-year-olds and adults
+The relationship between pre-verbal event representations and semantic structures: The case of goal and source paths
+Broca’s region: A causal role in implicit processing of grammars with crossed non-adjacent dependencies
+Auditory morphological processing: Evidence from phonological priming
+The relationship between sign production and sign comprehension: What handedness reveals
+Between a conditional’s antecedent and its consequent: Discourse coherence vs. probabilistic relevance
+Two paradigms for religious representation: The physicist and the playground (a reply to Levy)
+Corrigendum to “Believe it or not: Moving non-biological stimuli believed to have human origin can be represented as human movement” [Cognition 146 (2016) 431–438]
+Sensorimotor predictions and tool use: Hand-held tools attenuate self-touch
+Is susceptibility to cross-language interference domain specific?
+Unpacking symbolic number comparison and its relation with arithmetic in adults
+Emotional processing is enhanced in peri-hand space
+Zipf’s Law of Abbreviation and the Principle of Least Effort: Language users optimise a miniature lexicon for efficient communication
+Drawn together: When motor representations ground joint actions
+Facilitation and interference in naming: A consequence of the same learning process?
+The effect of phasic auditory alerting on visual perception
+Activating analytic thinking enhances the value given to individualizing moral foundations
+Camera-to-subject distance affects face configuration and perceived identity
+Standard body-space relationships: Fingers hold spatial information
+Action-effect sharing induces task-set sharing in joint task switching
+Infants’ perceptions of constraints on object motion as a function of object shape
+“Spiritual but not religious”: Cognition, schizotypy, and conversion in alternative beliefs
+Typical integration of emotion cues from bodies and faces in Autism Spectrum Disorder
+That certain something! Focusing on similarities reduces judgmental uncertainty
+Processing the papal encyclical through perceptual filters: Pope Francis, identity-protective cognition, and climate change concern
+Cooperative tool-use reveals peripersonal and interpersonal spaces are dissociable
+Children’s difficulty with true belief tasks: Competence deficit or performance problem?
+General object recognition is specific: Evidence from novel and familiar objects
+Developmental changes in the critical information used for facial expression processing
+Exposure to multiple accents supports infants’ understanding of novel accents
+Negative emotion enhances mnemonic precision and subjective feelings of remembering in visual long-term memory
+Vowels in infant-directed speech: More breathy and more variable, but not clearer
+Having a task partner affects lexical retrieval: Spoken word production in shared task settings
+Manipulating time and space: Collision prediction in peripersonal and extrapersonal space
+Distinct influences of affective and cognitive factors on children’s non-verbal and verbal mathematical abilities
+Fertility affects asymmetry detection not symmetry preference in assessments of 3D facial attractiveness
+Auditory processing deficits are sometimes necessary and sometimes sufficient for language difficulties in children: Evidence from mild to moderate sensorineural hearing loss
+Wormholes in virtual space: From cognitive maps to cognitive graphs
+That’s my hand! Therefore, that’s my willed action: How body ownership acts upon conscious awareness of willed actions
+Unconscious integration of multisensory bodily inputs in the peripersonal space shapes bodily self-consciousness
+Using prosody to infer discourse prominence in cochlear-implant users and normal-hearing listeners
+Action recognition is sensitive to the identity of the actor
+Compounding as Abstract Operation in Semantic Space: Investigating relational effects through a large-scale, data-driven computational model
+Meaningful questions: The acquisition of auxiliary inversion in a connectionist model of sentence production
+Incidental orthographic learning during a color detection task
+The interplay of language and visual perception in working memory
+Changing word usage predicts changing word durations in New Zealand English
+The means/side-effect distinction in moral cognition: A meta-analysis
+Incremental generation of answers during the comprehension of questions with quantifiers
+Semantic search during divergent thinking
+A universal bias in adult vowel perception – By ear or by eye
+Intergroup visual perspective-taking: Shared group membership impairs self-perspective inhibition but may facilitate perspective calculation
+The integration of symbolic and non-symbolic representations of exact quantity in preschool children
+Dissociation of item and source memory in rhesus monkeys
+Desirable difficulties during the development of active inquiry skills
+Individual differences in object-processing explain the relationship between early gaze-following and later language development
+Predicting semantic features in Chinese: Evidence from ERPs
+A ‘curse of knowledge’ in the absence of knowledge? People misattribute fluency when judging how common knowledge is among their peers
+A sound advantage: Increased auditory capacity in autism
+Discriminating relational and perceptual judgments: Evidence from human toddlers
+Conditioning task switching behavior
+Contracted time and expanded space: The impact of circumnavigation on judgements of space and time
+Moral learning: Psychological and philosophical perspectives
+Moral empiricism and the bias for act-based rules
+Normality: Part descriptive, part prescriptive
+Emotion-based learning systems and the development of morality
+Learning from moral inconsistency
+Centripetal and centrifugal forces in the moral circle: Competing constraints on moral learning
+The rat-a-gorical imperative: Moral intuition and the limits of affective learning
+Can only one person be right? The development of objectivism and social preferences regarding widely shared and controversial moral beliefs
+Social is special: A normative framework for teaching with and learning from evaluative feedback
+Learning a commonsense moral theory
+Moral vindications
+Moral alchemy: How love changes norms
+Children are sensitive to norms of giving
+Ignoring alarming news brings indifference: Learning about the world and the self
+Moral Learning: Conceptual foundations and normative relevance
+Moral learning as intuitive theory revision
+Inferences about moral character moderate the impact of consequences on blame and praise
+From good institutions to generous citizens: Top-down incentives to cooperate promote subsequent prosociality but not norm enforcement
+The limits of early social evaluation: 9-month-olds fail to generate social evaluations of individuals who behave inconsistently
+Explaining the moral of the story
+Signal dimensionality and the emergence of combinatorial structure
+When attention wanders: Pupillometric signatures of fluctuations in external attention
+Phonological and orthographic coding in deaf skilled readers
+An attentional drift diffusion model over binary-attribute choice
+People learn other people’s preferences through inverse decision-making
+Predicting actions from subtle preparatory movements
+Help me if I can't: Social interaction effects in adult contextual word learning
+Efficient belief tracking in adults: The role of task instruction, low-level associative processes and dispositional social functioning
+Just look away: Gaze aversions as an overt attentional disengagement mechanism
+The grammar of anger: Mapping the computational architecture of a recalibrational emotion
+Biphasic attentional orienting triggered by invisible social signals
+Dissociating intuitive physics from intuitive psychology: Evidence from Williams syndrome
+Social evaluation of intentional, truly accidental, and negligently accidental helpers and harmers by 10-month-old infants
+Children’s quantitative Bayesian inferences from natural frequencies and number of chances
+Successful voluntary recruitment of cognitive control under acute stress
+No arousal-biased competition in focused visuospatial attention
+Developmental surface and phonological dyslexia in both Greek and English
+The contributions of numerical acuity and non-numerical stimulus features to the development of the number sense and symbolic math achievement
+A familiar-size Stroop effect in the absence of basic-level recognition
+Do analog number representations underlie the meanings of young children’s verbal numerals?
+The visual system encodes others’ direction of gaze in a first-person frame of reference
+How “ought” exceeds but implies “can”: Description and encouragement in moral judgment
+Linguistic generalization on the basis of function and constraints on the basis of statistical preemption
+Resolving uncertainty in plural predication
+Spatial representation of magnitude in gorillas and orangutans
+Learning abstract visual concepts via probabilistic program induction in a Language of Thought
+Young children’s tool innovation across culture: Affordance visibility matters
+Children’s collaboration induces fairness rather than generosity
+The explanatory effect of a label: Explanations with named categories are more satisfying
+The heaviness of invisible objects: Predictive weight judgments from observed real and pantomimed grasps
+Metacognition of agency is reduced in high hypnotic suggestibility
+The sentence superiority effect revisited
+Grammar of binding in the languages of the world: Unity versus diversity
+The grammar of binding in the languages of the world: A response to Reuland
+Corrigendum to “What infants know about the unsaid: Phonological categorization in the absence of auditory input” [Cognition 152 (2016) 53–60]
+Where you are affects what you can easily imagine: Environmental geometry elicits sensorimotor interference in remote perspective taking
+Do you hear ‘feather’ when listening to ‘rain’? Lexical tone activation during unconscious translation: Evidence from Mandarin-English bilinguals
+Revealing the mechanisms of human face perception using dynamic apertures
+Spontaneous, modality-general abstraction of a ratio scale
+Biased pain reports through vicarious information: A computational approach to investigate the role of uncertainty
+Towards an integrative model of visual short-term memory maintenance: Evidence from the effects of attentional control, load, decay, and their interactions in childhood
+The influence of time on task on mind wandering and visual working memory
+Do silhouettes and photographs produce fundamentally different object-based correspondence effects?
+Hidden Markov model analysis reveals the advantage of analytic eye movement patterns in face recognition across cultures
+Preparing for what might happen: An episodic specificity induction impacts the generation of alternative future events
+The fate of distractors in working memory: No evidence for their active removal
+Mens rea ascription, expertise and outcome effects: Professional judges surveyed
+Waiting for lexical access: Cochlear implants or severely degraded input lead listeners to process speech less incrementally
+Effects of semantic neighborhood density in abstract and concrete words
+Retraction notice to "Fueling Doubt and Openness: Experiencing the Unconscious, Constructed Nature of Perception Induces Uncertainty and Openness to Change" Cognition, Volume 137, April 2015, Pages 1-8
+What makes a face photo a ‘good likeness’?
+Competing perspectives on frames of reference in language and thought
+Human infants’ understanding of social imitation: Inferences of affiliation from third party observations
+The priming of basic combinatory responses in MEG
+The role of reference in cross-situational word learning
+Reasoning strategies modulate gender differences in emotion processing
+Auditory-induced bouncing is a perceptual (rather than a cognitive) phenomenon: Evidence from illusory crescents
+Is utilitarian sacrifice becoming more morally permissible?
+Cognitive costs of decision-making strategies: A resource demand decomposition analysis with a cognitive architecture
+Does a lack of auditory experience affect sequential learning?
+The role of multisensory interplay in enabling temporal expectations
+Information density converges in dialogue: Towards an information-theoretic model
+Can monolinguals be like bilinguals? Evidence from dialect switching
+Automatic imitation of pro- and antisocial gestures: Is implicit social behavior censored?
+Where do spontaneous first impressions of faces come from?
+What do monkeys know about others’ knowledge?
+Task complexity moderates the influence of descriptions in decisions from experience
+Attention to distinguishing features in object recognition: An interactive-iterative framework
+When and how does labour lead to love? The ontogeny and mechanisms of the IKEA effect
+Extremely long-term memory and familiarity after 12<U+202F>years
+Early visual deprivation prompts the use of body-centered frames of reference for auditory localization
+Young children can overcome their weak inhibitory control, if they conceptualize a task in the right way
+Surprising rationality in probability judgment: Assessing two competing models
+Why some behaviors spread while others don’t: A laboratory simulation of dialect contact
+Can infants learn phonology in the lab? A meta-analytic answer
+Individual differences in switching and inhibition predict perspective-taking across the lifespan
+The emerging causal understanding of institutional objects
+Time to disengage from the bilingual advantage hypothesis
+Science does not disengage
+Unfounded dumbfounding: How harm and purity undermine evidence for moral dumbfounding
+Corrigendum to “The relevance effect and conditionals” [Cognition 150 (2016) 26–36]
+Decreased reward value of biological motion among individuals with autistic traits
+From altered synaptic plasticity to atypical learning: A computational model of Down syndrome
+Compound risk judgment in tasks with both idiosyncratic and systematic risk: The “Robust Beauty” of additive probability integration
+The early social significance of shared ritual actions
+Expected but omitted stimuli affect crossmodal interaction
+Full interpretation of minimal images
+Social attention directs working memory maintenance
+Infants' sensitivity to vowel harmony and its role in segmenting speech
+On-line confidence monitoring during decision making
+Mental files theory of mind: When do children consider agents acquainted with different object identities?
+Pre-linguistic segmentation of speech into syllable-like units
+When having two names facilitates lexical selection: Similar results in the picture-word task from translation distractors in bilinguals and synonym distractors in monolinguals
+Verbal labels facilitate tactile perception
+Moral imagination: Facilitating prosocial decision-making through scene imagery and theory of mind
+Social biases modulate the loss of redundant forms in the cultural evolution of language
+Iconicity affects children’s comprehension of complex sentences: The role of semantics, clause order, input and individual differences
+Sensorimotor training alters action understanding
+What is in a name?: The development of cross-cultural differences in referential intuitions
+Reviewers Acknowledgement
+The influence of prior reputation and reciprocity on dynamic trust-building in adults with and without autism spectrum disorder
+Perceptions of randomness in binary sequences: Normative, heuristic, or both?
+Mine is better than yours: Investigating the ownership effect in children with autism spectrum disorder and typically developing children
+Involuntary top-down control by search-irrelevant features: Visual working memory biases attention in an object-based manner
+Understanding face familiarity
+A unified computational account of cumulative semantic, semantic blocking, and semantic distractor effects in picture naming
+Distinguishing languages from dialects: A litmus test using the picture-word interference task
+Learning and transfer of working memory gating policies
+The determinants of response time in a repeated constant-sum game: A robust Bayesian hierarchical dual-process model
+Eyes that bind us: Gaze leading induces an implicit sense of agency
+Understanding environmental sounds in sentence context
+Cognitive capacity limitations and Need for Cognition differentially predict reward-induced cognitive effort expenditure
+Small numbers are sensed directly, high numbers constructed from size and density
+Using a foreign language reduces mental imagery
+Sensory predictions during action support perception of imitative reactions across suprasecond delays
+Deconstructing the human algorithms for exploration
+Cognitive science in the era of artificial intelligence: A roadmap for reverse-engineering the infant language-learner
+Children exhibit different performance patterns in explicit and implicit theory of mind tasks
+Integrating multisensory information across external and motor-based frames of reference
+Voulez-vous jouer avec moi? Twelve-month-olds understand that foreign languages can communicate
+Do enhanced states exist? Boosting cognitive capacities through an action video-game
+Visually-naïve chicks prefer agents that move as if constrained by a bilateral body-plan
+Inhibition accumulates over time at multiple processing levels in bilingual language control
+Toddlers’ comprehension of adult and child talkers: Adult targets versus vocal tract similarity
+Unsupervised learning of complex associations in an animal model
+Driven to distraction: A lack of change gives rise to mind wandering
+Corrigendum to “Implicit moral evaluations: A multinomial modeling approach” [Cognition 158 (2017) 224–241]
+Contour interpolation: A case study in Modularity of Mind
+Adding statistical regularity results in a global slowdown in visual search
+Switching between lift and use grasp actions
+Dynamic competition account of men’s perceptions of women’s sexual interest
+Inferring causes during speech perception
+Effects of metric hierarchy and rhyme predictability on word duration in The Cat in the Hat
+A thought in the park: The influence of naturalness and low-level visual features on expressed thoughts
+Sympathetic arousal, but not disturbed executive functioning, mediates the impairment of cognitive flexibility under stress
+Investing in commitment: Persistence in a joint action is enhanced by the perception of a partner’s effort
+Five-month-old infants have expectations for the accumulation of nonsolid substances
+Infants’ agent individuation: It’s what’s on the insides that counts
+Post-encoding control of working memory enhances processing of relevant information in rhesus monkeys (Macaca mulatta)
+Encoding of event roles from visual scenes is rapid, spontaneous, and interacts with higher-level visual processing
+Gaze patterns reveal how situation models and text representations contribute to episodic text memory
+Infants’ understanding of the definite/indefinite article in a third-party communicative situation
+Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it
+Questioning the automaticity of audiovisual correspondences
+The role of visual experience in the emergence of cross-modal correspondences
+Emotional sound symbolism: Languages rapidly signal valence via phonemes
+A universal cue for grammatical categories in the input to children: Frequent frames
+Reversing the similarity effect: The effect of presentation format
+Specific problems in visual cognition of dyslexic readers: Face discrimination deficits predict dyslexia over and above discrimination of scrambled faces and novel objects
+Prevailing theories of consciousness are challenged by novel cross-modal associations acquired between subliminal stimuli
+Exploiting risk–reward structures in decision making under uncertainty
+Whole-word frequency and inflectional paradigm size facilitate Estonian case-inflected noun processing
+Spatialization in working memory is related to literacy and reading direction: Culture “literarily” directs our thoughts
+Deconstructing spatial-numerical associations
+Corrigendum to “People learn other people’s preferences through inverse decision-making” [Cognition 168 (2017) 46–64]
+The role of alternative salience in the derivation of scalar implicatures
+Contextual predictability shapes signal autonomy
+Social network size can influence linguistic malleability and the propagation of linguistic change
+Post-decision wagering after perceptual judgments reveals bi-directional certainty readouts
+Abstraction promotes creative problem-solving in rhesus monkeys
+Mental space maps into the future
+Comparison within pairs promotes analogical abstraction in three-month-olds
+Cognitive control ability mediates prediction costs in monolinguals and bilinguals
+Is adaptive control in language production mediated by learning?
+Unconscious decisional learning improves unconscious information processing
+Inter-process relations in spatial language: Feedback and graded compatibility
+Music reading expertise modulates hemispheric lateralization in English word processing but not in Chinese character processing
+Phonetic radicals, not phonological coding systems, support orthographic learning via self-teaching in Chinese
+Learning to recognize unfamiliar talkers: Listeners rapidly form representations of facial dynamic signatures
+Grammatical gender affects gender perception: Evidence for the structural-feedback hypothesis
+The sentence wrap-up dogma
+Direct speech quotations promote low relative-clause attachment in silent reading of English
+The development of principled connections and kind representations
+The basic reproductive ratio as a link between acquisition and change in phonotactics
+Looking into the future: An inward bias in aesthetic experience driven only by gaze cues
+Individual differences in nonverbal prediction and vocabulary size in infancy
+Corrigendum to “On-line confidence monitoring during decision making” [Cognition 171 (2018) 112–121]
+Infants’ prosocial behavior is governed by cost-benefit analyses
+Cognitive flexibility and memory in pigeons, human children, and adults
+The social-cognitive basis of infants’ reference to absent entities
+Infants learn a rule predicated on the relation same but fail to simultaneously learn a rule predicated on the relation different
+When some triggers a scalar inference out of the blue. An electrophysiological study of a Stroop-like conflict elicited by single words
+Growth of symbolic number knowledge accelerates after children understand cardinality
+Interoceptive influences on peripersonal space boundary
+And then I saw her race: Race-based expectations affect infants’ word processing
+Confidence judgments during ratio comparisons reveal a Bayesian bias
+Exploring the functional nature of synaesthetic colour: Dissociations from colour perception and imagery
+Lucky or clever? From expectations to responsibility judgments
+The development of territory-based inferences of ownership
+The influence of religious concepts on the effects of blame appraisals on negative emotions
+The norm of assertion: Empirical data
+Fast mapping word meanings across trials: Young children forget all but their first guess
+Visual short-term memory guides infants’ visual attention
+Linguistic entrenchment: Prior knowledge impacts statistical learning performance
+Episodic traces and statistical regularities: Paired associate learning in typical and dyslexic readers
+Pointing perception is precise
+What’s fair? How children assign reward to members of teams with differing causal structures
+The role of perspective in event segmentation
+A critical period for second language acquisition: Evidence from 2/3 million English speakers
+The prosodic domain of phonological encoding: Evidence from speech errors
+Revisiting norms of assertion
+The paca that roared: Immediate cumulative semantic interference among newly acquired words
+Intersentential coreference expectations reflect mental models of events
+Corrigendum to “Integrating multisensory information across external and motor-based frames of reference” [Cognition 173 (2018) 75–86]
+Inattentional numbness and the influence of task difficulty
+Move to learn: Integrating spatial information from multiple viewpoints
+Mechanisms of value-learning in the guidance of spatial attention
+The language of smell: Connecting linguistic and psychophysical properties of odor descriptors
+Young infants’ discrimination of subtle phonetic contrasts
+Remembrance of inferences past: Amortization in human hypothesis generation
+Moral hindsight for good actions and the effects of imagined alternatives to reality
+When learning goes beyond statistics: Infants represent visual sequences in terms of chunks
+(Ir)rational choices of humans, rhesus macaques, and capuchin monkeys in dynamic stochastic environments
+Mistakes weren’t made: Three-year-olds’ comprehension of novel-verb passives provides evidence for early abstract syntax
+Your visual system provides all the information you need to make moral judgments about generic visual events
+Extremely costly intensifiers are stronger than quite costly ones
+Who did what? A causal role for cognitive control in thematic role assignment during sentence comprehension
+On children’s variable success with scalar inferences: Insights from disjunction in the scope of a universal quantifier
+Is infant-directed speech interesting because it is surprising? – Linking properties of IDS to statistical learning and attention at the prosodic level
+Grammatical licensing and relative clause parsing in a flexible word-order language
+Experience, aptitude and individual differences in native language ultimate attainment
+A mechanism for spatial perception on human skin
+When is the right hemisphere holistic and when is it not? The case of Chinese character recognition
+Joint action coordination in expert-novice pairs: Can experts predict novices’ suboptimal timing?
+The grasping side of post-error slowing
+Attenuation of visual evoked responses to hand and saccade-initiated flashes
+Nonword repetition depends on the frequency of sublexical representations at different grain sizes: Evidence from a multi-factorial analysis
+The influence of articulation dynamics on recognition memory
+Basic functional trade-offs in cognition: An integrative framework
+Naturalistic multiattribute choice
+Neutralization and homophony avoidance in phonological learning
+The costs and benefits of temporal predictability: impaired inhibition of prepotent responses accompanies increased activation of task-relevant responses
+Numerical cognition is resilient to dramatic changes in early sensory experience
+Stronger shared taste for natural aesthetic domains than for artifacts of human culture
+Developing incrementality in filler-gap dependency processing
+Deconstructing the Gratton effect: Targeting dissociable trial sequence effects in children, pre-adolescents, and adults
+Listening effort during speech perception enhances auditory and lexical processing for non-native listeners and accents
+Meta-ethics and the mortality: Mortality salience leads people to adopt a less subjectivist morality
+Continuous to discrete: Ensemble-based segmentation in the perception of multiple feature conjunctions
+Communicative eye contact signals a commitment to cooperate for young children
+A new approach to differentiate states of mind wandering: Effects of working memory capacity
+Vision dominates in perceptual language: English sensory vocabulary is optimized for usage
+How broad are thematic roles? Evidence from structural priming
+Sacrificial utilitarian judgments do reflect concern for the greater good: Clarification via process dissociation and the judgments of philosophers
+Successful structure learning from observational data
+Electrophysiological evidence for the effects of emotional content on false recognition memory
+Mental states modulate gaze following, but not automatically
+The relationship between parental mental-state language and 2.5-year-olds’ performance on a nontraditional false-belief task
+Intention, attention and long-term memory for visual scenes: It all depends on the scenes
+Communicative intent modulates production and comprehension of actions and gestures: A Kinect study
+I remember emotional content better, but I’m struggling to remember who said it!
+Meaning before order: Cardinal principle knowledge predicts improvement in understanding the successor principle and exact ordering
+Adaptation to other people’s eye gaze reflects habituation of high-level perceptual representations
+Cognitive development attenuates audiovisual distraction and promotes the selection of task-relevant perceptual saliency during visual search on complex scenes
+Intuitive statistical inferences in chimpanzees and humans follow Weber’s law
+Not all those who wander are lost: Spatial exploration patterns and their relationship to gender and spatial memory
+Expectation affects learning and modulates memory experience at retrieval
+Grounding the neurobiology of language in first principles: The necessity of non-language-centric explanations for language comprehension
+Context mitigates crowding: Peripheral object recognition in real-world images
+When do circumstances excuse? Moral prejudices and beliefs about the true self drive preferences for agency-minimizing explanations
+Learning to measure through action and gesture: Children’s prior knowledge matters
+Unconscious memory suppression
+Motor simulation of multiple observed actions
+Attention capture is temporally stable: Evidence from mixed-model correlations
+Event segmentation: Cross-linguistic differences in verbal and non-verbal tasks
+Identifying others’ informative intentions from movement kinematics
+Subconscious processing reveals dissociable contextual modulations of visual size perception
+The latent structure of spatial skill: A test of the 2<U+202F>×<U+202F>2 typology
+Typical visual-field locations facilitate access to awareness for everyday objects
+Mnemonic accessibility affects statement believability: The effect of listening to others selectively practicing beliefs
+ANCHORING is amodal: Evidence from a signed language
+Beyond unpleasantness. Social exclusion affects the experience of pain, but not of equally-unpleasant disgust
+Greater reliance on the eye region predicts better face recognition ability
+People are averse to machines making moral decisions
+Learning to focus on number
+Examining memory for ritualized gesture in complex causal sequences
+Can infants' sense of agency be found in their behavior? Insights from babybot simulations of the mobile-paradigm
+Co-actors represent the order of each other’s actions
+Sins of omission are more likely to be forgiven in non-native speakers
+The emergence of systematicity: How environmental and communicative factors shape a novel communication system
+Lexical stress constrains English-learning infants’ segmentation in a non-native language
+Probing the mental representation of quantifiers
+Implicit updating of object representation via temporal associations
+Comprehenders model the nature of noise in the environment
+Formation of abstract task representations: Exploring dosage and mechanisms of working memory training effects
+Systematicity, but not compositionality: Examining the emergence of linguistic structure in children and adults using iterated learning
+Cortical tracking of constituent structure in language acquisition
+Statistical learning and spelling: Evidence from Brazilian prephonological spellers
+Gestalt similarity groupings are not constructed in parallel
+Non-linguistic effects of language switching training
+Attention rapidly reorganizes to naturally occurring structure in a novel activity sequence
+Working memory training and perceptual discrimination training impact overlapping and distinct neurocognitive processes: Evidence from event-related potentials and transfer of training gains
+Critical features for face recognition
+Are visual processes causally involved in “perceptual simulation” effects in the sentence-picture verification task?
+Weighing outcome vs. intent across societies: How cultural models of mind shape moral reasoning
+Contextual priming of word meanings is stabilized over sleep
+Sensitivity to pain expectations: A Bayesian model of individual differences
+Temporal expectancies and rhythmic cueing in touch: The influence of spatial attention
+Compositional structure can emerge without generational transmission
+Metaphors we learn by: Directed motor action improves word learning
+The roles of action selection and actor selection in joint task settings
+What explains sex differences in math anxiety? A closer look at the role of spatial processing
+The kinematics that you do not expect: Integrating prior information and kinematics to understand intentions
+Is imagining a voice like listening to it? Evidence from ERPs
+It takes me back: The mnemonic time-travel effect
+How metacontrol biases and adaptivity impact performance in cognitive search tasks
+Model of Multiple Identity Tracking (MOMIT) 2.0: Resolving the serial vs. parallel controversy in tracking
+What do you know? ERP evidence for immediate use of common ground during online reference resolution
+Negation markers inhibit motor routines during typing of manual action verbs
+The spillover effects of attentional learning on value-based choice
+Local contour symmetry facilitates scene categorization
+How bilinguals perceive speech depends on which language they think they’re hearing
+No luck for moral luck
+Statistical learning and spelling: Evidence from an incidental learning experiment with children
+Revisiting the bilingual lexical deficit: The impact of age of acquisition
+Being fast or slow at naming depends on recency of experience
+Revealing abstract semantic mechanisms through priming: The distributive/collective contrast
+Prior expectation of objects in space is dependent on the direction of gaze
+Reduced multisensory integration of self-initiated stimuli
+Unfolding meaning in context: The dynamics of conceptual similarity
+Scenes enable a sense of reliving: Implications for autobiographical memory
+Mature counterfactual reasoning in 4- and 5-year-olds
+A model for discovering ‘containment’ relations
+Facial expressions of authenticity: Emotion variability increases judgments of trustworthiness and leadership
+Independent contribution of perceptual experience and social cognition to face recognition
+Spending too little in hard times
+Why wait for the verb? Turkish speaking children use case markers for incremental language comprehension
+Cross-situational and ostensive word learning in children with and without autism spectrum disorder
+Contrast and entailment: Abstract logical relations constrain how 2- and 3-year-old children interpret unknown numbers
+Selective maintenance of value information helps resolve the exploration/exploitation dilemma
+The seeds of social learning: Infants exhibit more social looking for plants than other object types
+Testing analogical rule transfer in pigeons (Columba livia)
+Two distinct mechanisms of selection in working memory: Additive last-item and retro-cue benefits
+The reality of hierarchical morphological structure in multimorphemic words
+Opening the reconsolidation window using the mind’s eye: Extinction training during reconsolidation disrupts fear memory expression following mental imagery reactivation
+Hearing me hearing you: Reciprocal effects between child and parent language in autism and typical development
+Nonlinear decision weights or moment-based preferences? A model competition involving described and experienced skewness
+The affective twitches of task switches: Task switch cues are evaluated as negative
+Impact of characteristics of L1 literacy experience on picture processing: ERP data from trilingual non-native Chinese and English readers
+The impact of stimulus uncertainty on attentional control
+A mechanistic account of bodily resonance and implicit bias
+One of us? how facial and symbolic cues to own- versus other-race membership influence access to perceptual awareness
+Gaze allocation in face-to-face communication is affected primarily by task structure and social context, not stimulus-driven factors
+Compounding matters: Event-related potential evidence for early semantic access to compound words
+The cognitive roots of regularization in language
+Two’s company, three’s a crowd: Individuation is necessary for object recognition
+Characterising monitoring processes in event-based prospective memory: Evidence from pupillometry
+What we know about knowing: Presuppositions generated by factive verbs influence downstream neural processing
+Reference repulsion is not a perceptual illusion
+Distinct roles of eye movements during memory encoding and retrieval
+When humans behave like monkeys: Feedback delays and extensive practice increase the efficiency of speeded decisions
+Word frequency effects in sound change as a consequence of perceptual asymmetries: An exemplar-based model
+Explanation recruits comparison in a category-learning task
+Is scaling up harder than scaling down? How children and adults visually scale distance from memory
+Acquisition and processing of an artificial mini-language combining semantic and syntactic elements
+Sound symbolism in sighted and blind. The role of vision and orthography in sound-shape correspondences
+Conscious and unconscious memory differentially impact attention: Eye movements, visual search, and recognition processes
+Does direction matter? Linguistic asymmetries reflected in visual attention
+The one-is-more illusion: Sets of discrete objects appear less extended than equivalent continuous entities in both space and time
+A hierarchical model of social perception: Psychophysical evidence suggests late rather than early integration of visual information from facial expression and body posture
+How the inference of hierarchical rules unfolds over time
+Literacy improves short-term serial recall of spoken verbal but not visuospatial items – Evidence from illiterate and literate adults
+Does language similarity affect representational integration?
+Adaptive memory: Source memory is positively associated with adaptive social decision making
+The precision of attentional selection is far worse than the precision of the underlying memory representation
+Metacognition across sensory modalities: Vision, warmth, and nociceptive pain
+Decisional space modulates visual categorization – Evidence from saccadic reaction times
+Complex probability expressions & higher-order uncertainty: Compositional semantics, probabilistic pragmatics & experimental data
+Superior learning in synesthetes: Consistent grapheme-color associations facilitate statistical learning
+Memory enhancements from active control of learning emerge across development
+Partisan mathematical processing of political polling statistics: It’s the expectations that count
+Similarity is as similarity does? A critical inquiry into the effect of thematic association on similarity
+Infants differentially update their internal models of a dynamic environment
+Cognitive influences in language evolution: Psycholinguistic predictors of loan word borrowing
+The role of colour labels in mediating toddler visual attention
+Expert attention: Attentional allocation depends on the differential development of multisensory number representations
+Intermediate coding versus direct mapping accounts for the SNARC effect: Santens and Gevers (2008) revisited
+Identity fusion, outgroup relations, and sacrifice: A cross-cultural test
+Which cognitive tools do we prefer to use, and is that preference rational?
+Learning correspondences between magnitudes, symbols and words: Evidence for a triple code model of arithmetic development
+Neural evidence for Bayesian trial-by-trial adaptation on the N400 during semantic priming
+Reciprocal information flow and role distribution support joint action coordination
+Multisensory enhancement of attention depends on whether you are already paying attention
+The contribution of visual attention and declining verbal memory abilities to age-related route learning deficits
+Attentional modulation of masked semantic priming by visible and masked task cues
+Reconsidering unconscious persistence: Suppressing unwanted memories reduces their indirect expression in later thoughts
+Sensorimotor contingency modulates breakthrough of virtual 3D objects during a breaking continuous flash suppression paradigm
+Emotional arousal amplifies competitions across goal-relevant representation: A neurocomputational framework
+Investigating the relationship between fast mapping, retention, and generalisation of words in children with autism spectrum disorder and typical development
+Individual differences in spelling ability influence phonological processing during visual word recognition
+The need for intellectual diversity in psychological science: Our own studies of actively open-minded thinking as a case study
+Individual differences in the effects of priors on perception: A multi-paradigm approach
+Manual directional gestures facilitate cross-modal perceptual learning
+Did that just happen? Event segmentation influences enumeration and working memory for simple overlapping visual events
+Adults imitate to send a social signal
+A colorful advantage in iconic memory
+Thought as a determinant of political opinion
+Actively open-minded thinking in politics
+Forecasting tournaments, epistemic humility and attitude depolarization
+The role of causal beliefs in political identity and voting
+Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning
+It depends: Partisan evaluation of conditional probability importance
+Identity-motivated reasoning: Biased judgments regarding political leaders and their actions
+Epistemic spillovers: Learning others’ political views reduces the ability to assess and use their expertise in nonpolitical domains
+I know why you voted for Trump: (Over)inferring motives based on choice
+Selective exposure partly relies on faulty affective forecasts
+Political cognition helps explain social class divides: Two dimensions of candidate impressions, group stereotypes, and meritocracy beliefs
+Cognitive mechanisms in violent extremism
+Influence and seepage: An evidence-resistant minority can affect public opinion and scientific belief formation
+Cognitive science of political thought: Some final reflections
+Monkeys are curious about counterfactual outcomes
+Cross-situational learning in a Zipfian environment
+Statistical learning and Gestalt-like principles predict melodic expectations
+Time pressure disrupts level-2, but not level-1, visual perspective calculation: A process-dissociation analysis
+Passively learned spatial navigation cues evoke reinforcement learning reward signals
+Learning mechanisms in cue reweighting
+Preschoolers and multi-digit numbers: A path to mathematics through the symbols themselves
+There’s more to “sparkle” than meets the eye: Knowledge of vision and light verbs among congenitally blind and sighted individuals
+Collective benefit in joint perceptual judgments: Partial roles of shared environments, meta-cognition, and feedback
+The development of symmetry concept in preschool children
+Visual form perception is fundamental for both reading comprehension and arithmetic computation
+Hierarchical structure priming from mathematics to two- and three-site relative clause attachment
+Visual perception of shape-transforming processes: ‘Shape Scission’
+Does the implicit outcomes expectancies shape learning and memory processes?
+Linguistic conventionality and the role of epistemic reasoning in children’s mutual exclusivity inferences
+Instance-of-object-kind representations
+A delay in processing for repeated letters: Evidence from megastudies
+Intuitions about mathematical beauty: A case study in the aesthetic experience of ideas
+A new look at joint attention and common knowledge
+Multitasking behavior and its related constructs: Executive functions, working memory capacity, relational integration, and divided attention
+Mental attribution is not sufficient or necessary to trigger attentional orienting to gaze
+Braille readers break mirror invariance for both visual Braille and Latin letters
+Choking under experimenter’s presence: Impact on proactive control and practical consequences for psychological science
+Better than native: Tone language experience enhances English lexical stress discrimination in Cantonese-English bilingual listeners
+Parallel, cascaded, interactive processing of words during sentence reading
+Graded similarity in free categorization
+Emotional Semantic Congruency based on stimulus driven comparative judgements
+Similarity of referents influences the learning of phonological word forms: Evidence from concurrent word learning
+Sensitivity to emotion information in children’s lexical processing
+Do non-human primates really represent others’ ignorance? A test of the awareness relations hypothesis
+Spontaneous memory retrieval varies based on familiarity with a spatial context
+Pupils say more than a thousand words: Pupil size reflects how observed actions are interpreted
+A meta-analysis of the object-based compatibility effect
+Evidence of analogical re-representation from a change detection task
+The progressive 6-year-old conserver: Numerical saliency and sensitivity as core mechanisms of numerical abstraction in a Piaget-like estimation task
+Reconstructing the origins of the space-number association: spatial and number-magnitude codes must be used jointly to elicit spatially organised mental number lines
+A counterfactual explanation for the action effect in causal judgment
+Fluid intelligence and working memory support dissociable aspects of learning by physical but not observational practice
+Understanding facial impressions between and within identities
+Evidence of stable individual differences in implicit learning
+Temporal and spatial discounting are distinct in humans
+The development of corporal third-party punishment
+Collections, collectives, and individuals: Preschoolers’ attributions of intentionality
+Memory shapes judgments: Tracing how memory biases judgments by inducing the retrieval of exemplars
+When we don’t know what we know – Sex and skin color
+Generality of likelihood ratio decisions
+Offloading memory leaves us vulnerable to memory manipulation
+Effects of explanation on children’s question asking
+Listening to your intuition in the face of distraction: Effects of taxing working memory on accuracy and bias of intuitive judgments of semantic coherence
+Strategic attention and decision control support prospective memory in a complex dual-task environment
+Stepwise versus globally optimal search in children and adults
+Predictability of meaning in grammatical encoding: Optional plural marking
+Language modality shapes the dynamics of word and sign recognition
+Experience with morphosyntactic paradigms allows toddlers to tacitly anticipate overregularized verb forms months before they produce them
+Intentionality attribution and emotion: The Knobe Effect in alexithymia
+Autobiographical memory stability in the context of the Adult Attachment Interview
+Intuitions about personal identity are rooted in essentialist thinking across development
+Sign language experience redistributes attentional resources to the inferior visual field
+Drawing improves memory: The importance of multimodal encoding context
+What can half a million change detection trials tell us about visual working memory?
+Object’s symmetry alters spatial perspective-taking processes
+Using what's there: Bilinguals adaptively rely on orthographic and color cues to achieve language control
+Alternative spin on phylogenetically inherited spatial reference frames
+Minimal coherence among varied theory of mind measures in childhood and adulthood
+A real-time mechanism underlying lexical deficits in developmental language disorder: Between-word inhibition
+The career of measurement
+Stacking the evidence: Parents’ use of acoustic packaging with preschoolers
+Finding the “odd one out”: Memory color effects and the logic of appearance
+Tone slips in Cantonese: Evidence for early phonological encoding
+Hearing non-signers use their gestures to predict iconic form-meaning mappings at first exposure to signs
+What evidence is required to determine whether infants infer the kinship of third parties? A commentary on Spokes and Spelke (2017)
+Spatial demonstratives and perceptual space: To reach or not to reach?
+Evolving artificial sign languages in the lab: From improvised gesture to systematic sign
+Shades of surprise: Assessing surprise as a function of degree of deviance and expectation constraints
+VAMP (Voting Agent Model of Preferences): A computational model of individual multi-attribute choice
+Time and information in perceptual adaptation to speech
+Mirror, mirror, on the wall, who is deontological? Completing moral dilemmas in front of mirrors increases deontological but not utilitarian response tendencies
+The representation selection problem: Why we should favor the geometric-module framework of spatial reorientation over the view-matching framework
+Not all who ponder count costs: Arithmetic reflection predicts utilitarian tendencies, but logical reflection predicts both deontological and utilitarian tendencies
+The language of accurate recognition memory
+Vision and proprioception make equal contributions to path integration in a novel homing task
+What exactly is learned in visual statistical learning? Insights from Bayesian modeling
+The rare preference effect: Statistical information influences social affiliation judgments
+Designators, descriptions, and artifact persistence
+Perception and conception in understanding evolutionary trees
+Predictive cues reduce but do not eliminate intrinsic response bias
+Dimensional attention as a mechanism of executive function: Integrating flexibility, selectivity, and stability
+Speech predictability can hinder communication in difficult listening conditions
+The domain-specificity of face matching impairments in 40 cases of developmental prosopagnosia
+Crossing to the other side: Language influences children’s perception of event components
+Reference effects on decision-making elicited by previous rewards
+Size-invariant but location-specific object-viewpoint adaptation in the absence of awareness
+Aversion to organs donated by suicide victims: The role of psychological essentialism
+Container size exerts a stronger influence than liquid volume on the perceived weight of objects
+Transfer of sensorimotor learning reveals phoneme representations in preliterate children
+Social contingency modulates the perceived distance between self and other
+The Dialogical Entailment Task
+How do you know that? Automatic belief inferences in passing conversation
+Underspecification in toddlers’ and adults’ lexical representations
+Putting prototypes in place
+Parafoveal processing of phonology and semantics during the reading of Korean sentences
+A role for metamemory in cognitive offloading
+Level 2 perspective-taking distinguishes automatic and non-automatic belief-tracking
+Bilinguals apply language-specific grain sizes during sentence reading
+The role of time perception in temporal binding: Impaired temporal resolution in causal sequences
+Shake it baby, but only when needed: Preschoolers adapt their exploratory strategies to the information structure of the task
+The impact of psychostimulants on sustained attention over a 24-h period
+Sensory cue combination in children under 10 years of age
+Face perception in autism spectrum disorder: Modulation of holistic processing by facial emotion
+Infants use knowledge of emotions to augment face perception: Evidence of top-down modulation of perception early in life
+Possibilities as the foundation of reasoning
+A chink in the armor: The influence of training on generalization learning impairments after viewing traumatic stimuli
+The effects of high variability training on voice identity learning
+Pragmatic processing: An investigation of the (anti-)presuppositions of determiners using mouse-tracking
+Self-control is linked to interoceptive inference: Craving regulation and the prediction of aversive interoceptive states induced with inspiratory breathing load
+Human body motion captures visual attention and elicits pupillary dilation
+Left is “good”: Observed action affects the association between horizontal space and affective valence
+Crying helps, but being sad doesn’t: Infants constrain nominal reference online using known verbs, but not known adjectives
+When do we punish people who don’t?
+Learning reward frequency over reward probability: A tale of two learning rules
+How abstract is syntax? Evidence from structural priming
+False recognition modality effects in short-term memory: Reversing the auditory advantage
+Keep trying!: Parental language predicts infants’ persistence
+Tip of the tongue after any language: Reintroducing the notion of blocked retrieval
+Integration to boundary in decisions between numerical sequences
+Whereof one cannot speak: How language and capture of visual attention interact
+Differential benefits of mental training types for attention, compassion, and theory of mind
+Facial responses of adult humans during the anticipation and consumption of touch and food rewards
+The role of proactive control on subcomponents of language control: Evidence from trilinguals
+Gamble evaluation and evoked reference sets: Why adding a small loss to a gamble increases its attractiveness
+Wearing your heart on your screen: Investigating congruency-effects in autonomic responses and their role in interoceptive processing during biofeedback
+Evidence for metacognitive bias in perception of voluntary action
+What comes to mind?
+The role of language in novel task learning
+Dynamics of visual attention revealed in foraging tasks
+An initial accuracy focus prevents illusory truth
+Big data suggest strong constraints of linguistic similarity on adult language learning
+Dynamics of auditory spatial attention gradients
+Attentional prioritization reconfigures novel instructions into action-oriented task sets
+Increased overt attention to objects in early deaf adults: An eye-tracking study of complex naturalistic scenes
+Causal actions enhance perception of continuous body movements
+Proactive control of affective distraction: Experience-based but not expectancy-based
+Speakers' use of agency and visual context in spatial descriptions
+Attribution of intentional agency towards robots reduces one’s own sense of agency
+Inverted faces benefit from whole-face processing
+The knowledge of the preceding number reveals a mature understanding of the number sequence
+Perceptual association enhances intersensory temporal precision
+How influenceable is our metamemory for pictorial material? The impact of framing and emotionality on metamemory judgments
+The timing of gaze-contingent decision prompts influences risky choice
+The sociality of social inhibition of return
+Zooming in on zooming out: Partial selectivity and dynamic tuning of bilingual language control during reading
+Communication efficiency of color naming across languages provides a new framework for the evolution of color terms
+Ostension affects infant learning more than attention
+Detecting falsehood relies on mismatch detection between sentence components
+Two-day-old newborns learn to discriminate accelerated-decelerated biological kinematics from constant velocity motion
+Bilingual switching between languages and listeners: Insights from immersive virtual reality
+Numbers around Descartes: A preregistered study on the three-dimensional SNARC effect
+On the limits of evidence accumulation of the preconscious percept
+Bouba and Kiki inside objects: Sound-shape correspondence for objects with a hole
+Who's got the global advantage? Visual field differences in processing of global and local shape
+The Love of Large Numbers Revisited: A Coherence Model of the Popularity Bias
+Putting the world in mind: The case of mental representation of quantity
+Temporal and spatial ensemble statistics are formed by distinct mechanisms
+Prediction error and regularity detection underlie two dissociable mechanisms for computing the sense of agency
+Do questionnaires reflect their purported cognitive functions?
+Discrimination of ordinal relationships in temporal sequences by 4-month-old infants
+Ease of learning explains semantic universals
+Agents' pivotality and reward fairness modulate sense of agency in cooperative joint action
+Peripersonal space is diversely sensitive to a temporary vs permanent state of anxiety
+Delayed disengagement of attention from distractors signalling reward
+Specifying the domain-general resources that contribute to conceptual construction: Evidence from the child’s acquisition of vitalist biology
+The role of motivation in the association of political ideology with cognitive performance
+Direct gaze enhances interoceptive accuracy
+Distinguishing causation and correlation: Causal learning from time-series graphs with trends
+Skilled readers’ sensitivity to meaningful regularities in English writing
+Corrigendum to “Not all who ponder count costs: Arithmetic reflection predicts utilitarian tendencies, but logical reflection predicts both deontological and utilitarian tendencies” [Cognition 192 (2019) 1–19]
+The dimensions of episodic simulation
+Opacity, obscurity, and the geometry of question-asking
+The Role of Selective Attention in Cross-modal Interactions between Auditory and Visual Features
+When knowing only one word for “car” leads to weak application of mutual exclusivity
+Motor control drives visual bodily judgements
+Something from nothing: Agency for deliberate nonactions
+Helping, fast and slow: Exploring intuitive cooperation in early ontogeny
+Distractor context manipulation in visual search: How expectations modulate proactive control
+Reward learning biases the direction of saccades
+A dilution effect without dilution: When missing evidence, not non-diagnostic evidence, is judged inaccurately
+It's (not) all Greek to me: Boundaries of the foreign language effect
+Production efficiency can cause grammatical change: Learners deviate from the input to better balance efficiency against robust message transmission
+Relational labeling unlocks inert knowledge
+Are monkeys able to discriminate appearance from reality?
+Search superiority: Goal-directed attentional allocation creates more reliable incidental identity and location memory than explicit encoding in naturalistic virtual environments
+Groups as institutions: The use of constitutive rules to attribute group membership
+Finding categories through words: More nameable features improve category learning
+Probabilistic rejection templates in visual working memory
+Constraints on conventions: Resolving two puzzles of conventionality
+Hands show where things are: The close similarity between sign and natural space
+Neurocognitive processes underlying heuristic and normative probability judgments
+Easy on the mind, easy on the wrongdoer? No evidence for perceptual fluency effects on moral wrongness ratings
+Are future selves treated like others? Comparing determinants and levels of intrapersonal and interpersonal allocations
+Differential effects of knowledge and aging on the encoding and retrieval of everyday activities
+The dark side of Eureka: Artificially induced Aha moments make facts feel true
+Four-year-old Mandarin-speaking children’s online comprehension of relative clauses
+Space-pitch associations differ in their susceptibility to language
+Active sampling in visual search is coupled to the cardiac cycle
+Does using a foreign language reduce mental imagery?
+The temporal dynamics of infants' joint attention: Effects of others' gaze cues and manual actions
+Source information is inherently linked to working memory representation for auditory but not for visual stimuli
+Perceptual identification task points to continuity between implicit memory and recall
+Anxiety makes time pass quicker while fear has no effect
+Does the language we use to segment the body, shape the way we perceive it? A study of tactile perceptual distortions
+Orofacial somatosensory inputs modulate word segmentation in lexical decision
+The ability to recall scenes is a stable individual difference: Evidence from autobiographical remembering
+Early lexical influences on sublexical processing in speech perception: Evidence from electrophysiology
+Of mice and men: Speech sound acquisition as discriminative learning from prediction error, not just statistical tracking
+Training nonsymbolic proportional reasoning in children and its effects on their symbolic math abilities
+Navigation and perception of spatial layout in virtual echo-acoustic space
+What the Baldwin Effect affects depends on the nature of plasticity
+Emotion recognition ability: Evidence for a supramodal factor and its links to social cognition
+The effect of contextual plausibility on word skipping during reading
+Modality-specific attention attenuates visual-tactile integration and recalibration effects by reducing prior expectations of a common source for vision and touch
+No evidence for a common self-bias across cognitive domains
+Cognitive performance is enhanced if one knows when the task will end
+Exploring the influence of ownership history on object valuation in typical development and autism
+Syntactic category constrains lexical competition in speaking
+Challenges to both reliability and validity of masculinity-preference measures in menstrual-cycle-effects research
+Is there an end in sight? Viewers' sensitivity to abstract event structure
+Cross-linguistic frequency and the learnability of semantics: Artificial language learning studies of evidentiality
+Object features reinstated from episodic memory guide attentional selection
+Print exposure explains individual differences in using syntactic but not semantic cues for pronoun comprehension
+Gaze position regulates memory accessibility during competitive memory retrieval
+Does short-term memory develop?
+The puzzle of number agreement with disjunction
+Clustering leads to underestimation of numerosity, but crowding is not the cause
+A ‘no’ with a trace of ‘yes’: A mouse-tracking study of negative sentence processing
+Pause acceptability indicates word-internal structure in Wubuy
+Cognitive processes underlying spoken word recognition during soft speech
+The case of muddled units in temporal discounting
+Mapping visual spatial prototypes: Multiple reference frames shape visual memory
+Enumeration strategy differences revealed by saccade-terminated eye tracking
+Physically attractive faces attract us physically
+Interactions between givenness and clause order in children’s processing of complex sentences
+Statistical regularities shape semantic organization throughout development
+Word predictability blurs the lines between production and comprehension: Evidence from the production effect in memory
+Effects of distributed practice and criterion level on word retrieval in aphasia
+The role of developmental change and linguistic experience in the mutual exclusivity effect
+Effects of a partner's task on memory for content and source
+Infants' expectations about the recipients of infant-directed and adult-directed speech
+A multi-faceted approach to understanding individual differences in mind-wandering
+Between-language competition as a driving force in foreign language attrition
+Preferences for redistribution are sensitive to perceived luck, social homogeneity, war and scarcity
+Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically
+Two-year-olds consolidate verb meanings during a nap
+Emotional cue effects on accessing and elaborating upon autobiographical memories
+Corrigendum to “Enumeration versus object tracking: Insights from video game players.” [Cognition 101 (2006) 217–245]
+Memories of control: One-shot episodic learning of item-specific stimulus-control associations
+No calculation necessary: Accessing magnitude through decimals and fractions
+Are two cues always better than one? The role of multiple intra-sensory cues compared to multi-cross-sensory cues in children's incidental category learning
+A test of two processes: The effect of training on deductive and inductive reasoning
+Autistic traits are associated with atypical precision-weighted integration of top-down and bottom-up neural signals
+Children and adults selectively generalize mechanistic knowledge
+Is it time? Episodic imagining and the discounting of delayed and probabilistic rewards in young and older adults
+Perspective taking as virtual navigation? Perceptual simulation of what others see reflects their location in space but not their gaze
+Capuchin monkeys (sometimes) go when they know: Confidence movements in Sapajus apella
+One-shot learning of view-invariant object representations in newborn chicks
+Dissociable influences of implicit temporal expectation on attentional performance and mind wandering
+The value of choice facilitates subsequent memory across development
+How optimal is word recognition under multimodal uncertainty?
+Incidental binding between predictive relations
+Using confidence and consensuality to predict time invested in problem solving and in real-life web searching
+Neuro-dynamics of executive control in bilingual language switching: An MEG study
+The effect of effects on effectiveness: A boon-bane asymmetry
+Developmental trajectories of control of verbal and non-verbal interference in speech comprehension in monolingual and multilingual children
+Learning the generative principles of a symbol system from limited examples
+Attractive serial dependence between memorized stimuli
+The role of iconicity and simultaneity for efficient communication: The case of Italian Sign Language (LIS)
+Disgust selectively dampens value-independent risk-taking for potential gains
+The role of domain-general inhibition in inflectional encoding: Producing the past tense
+Own-age bias in face-name associations: Evidence from memory and visual attention in younger and older adults
+Social interactions can simultaneously enhance and distort memories: Evidence from a collaborative recognition task
