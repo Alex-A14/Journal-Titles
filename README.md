@@ -7,3 +7,7 @@ https://mybinder.org/v2/gh/Alex-A14/Journal-Titles.git/master?filepath=Journal_T
 
 Webscraping and data cleaning were conducted in R.
 Articles were generated using Python.
+
+For fun, here are the most frequently used words in Cognition over the last couple decades!
+
+![] (wordcloud.png)
