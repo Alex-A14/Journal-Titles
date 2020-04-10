@@ -10,4 +10,4 @@ Articles were generated using Python.
 
 For fun, here are the most frequently used words in Cognition over the last couple decades!
 
-![alt](Journal-Titles/wordcloud.png)
+![alt](https://github.com/Alex-A14/Journal-Titles/blob/master/wordcloud.png)
